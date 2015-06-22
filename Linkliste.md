@@ -62,7 +62,6 @@ Kleinere Mengen von Fotos, für die sich kein eigenes Album lohnt, finden sich [
 ###Sonstiges
 * [TEN SING Dasselseminar 2014 - Generalprobe](https://www.youtube.com/watch?v=-Du5bIJDmU8)
 * [TEN SING Dasselseminar 2014 - Konzert](https://www.youtube.com/watch?v=2HSTYSQLuMY)
-* 
 
 ##Audios
 Hier finden sich Mitschnitte unserer Konzerte, Proben oder Sonstigem als Audidatei zum Anhören! (Und herunterladen)
