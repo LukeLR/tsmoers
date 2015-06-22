@@ -18,19 +18,23 @@ Ihr habt selbst noch Fotos von uns bei euch herumliegen, und wollt diese gerne n
  * [Tagesbilder Sonntag](https://flic.kr/s/aHsjYfpa5u)
 
 ###Probenmontage
+* [ProSo 16.06.2013](https://www.flickr.com/gp/tsmoers/705916)
 
 ###Normale Proben
+* [Probe am 29.04.2013](https://www.flickr.com/photos/tsmoers/sets/72157652569144643)
 
 ###Konzertbesuche
 * [TEN SING Borken 2013](https://www.flickr.com/gp/tsmoers/o24m3p)
 
 ###Auftritte
 * [1. Mai 2013](https://www.flickr.com/gp/tsmoers/17DKJk)
+* [Kastellplatz Moers 2013](https://www.flickr.com/gp/tsmoers/7xC5AB)
 
 ###CVJM-Kram
 * [Pfingstzeltlager 2013](https://www.flickr.com/gp/tsmoers/578wC7)
 
 ###Sonstiges
+* [Abschlussgrillen 2013](https://www.flickr.com/photos/tsmoers/sets/72157654827640006)
 Kleinere Mengen von Fotos, für die sich kein eigenes Album lohnt, finden sich [hier](https://www.flickr.com/gp/tsmoers/J8E2Ad)
 
 ##Videos
