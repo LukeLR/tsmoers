@@ -1,11 +1,10 @@
 #TEN SING Moers Linkliste!
+![TEN SING Moers Logo](https://raw.githubusercontent.com/LukeLR/tsmoers/master/footage/banner%202015/Flyer%20reloaded%20long%20low.png)
 Hallo liebe TEN SINGer aus Moers,
 
 Hallo liebe TEN SINGer von anderswo
 
 Hallo liebe Freunde und Verwandte! *(oder so)*
-
-![TEN SING Moers Logo](https://raw.githubusercontent.com/LukeLR/tsmoers/master/footage/banner%202015/Flyer%20reloaded%20long%20low.png)
 
 Dies ist die offizielle TEN SING Moers-Adressenliste! Wuhu! Hier stehen Internetadressen zu allen Fotos, Videos und anderen Medien, die zu unserer TEN SING-Gruppe online zu finden sind, schön aufgelistet und gesammelt! Die meisten dieser Fotos und Videos sind öffentlich nicht zugänglich, das heißt, man kann sie über Suchfunktionen etc. nicht finden, damit nicht jeder Mensch auf diesem Planeten unsere Fotos ansehen oder gar herunterladen kann. Deshalb geht auch bitte vorsichtig mit diesen Links um, denn jeder Mensch, der die Adresse kennt, hat damit auch Zugriff auf die Fotos, und vor allem, kann er diesen Link ja auch wieder weitergeben und so. Aber wir sind ja auch keine Geheimorganisation *(oder etwa doch?)* und wollen deshalb eigentlich auch kein großes Palaver darum machen :D Deshalb geht's auch sofort los!
 
