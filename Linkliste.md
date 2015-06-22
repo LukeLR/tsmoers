@@ -1,5 +1,5 @@
 #TEN SING Moers Linkliste!
-![TEN SING Moers Logo](https://raw.githubusercontent.com/LukeLR/tsmoers/master/footage/banner%202015/Flyer%20reloaded%20long%20low.png)
+![TEN SING Moers Logo](/footage/banner 2015/Flyer reloaded long low.png)
 Hallo liebe TEN SINGer aus Moers,
 
 Hallo liebe TEN SINGer von anderswo
