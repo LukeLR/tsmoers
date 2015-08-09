@@ -14,8 +14,10 @@ Ihr habt selbst noch Fotos von uns bei euch herumliegen, und wollt diese gerne n
 ##Fotos
 ###ProWos
 * [ProWo Mai 2014 - Eichenkreuzheim](https://www.flickr.com/gp/tsmoers/uJ1H8d)
- * [Tagesbilder Samstag](https://www.flickr.com/gp/tsmoers/K47kKn)
- * [Tagesbilder Sonntag](https://flic.kr/s/aHsjYfpa5u)
+  * [Tagesbilder Samstag](https://www.flickr.com/gp/tsmoers/K47kKn)
+  * [Tagesbilder Sonntag](https://flic.kr/s/aHsjYfpa5u)
+* [ProWo Oktober 2014 - CVJM Moers](https://www.flickr.com/gp/tsmoers/1q0d9q)
+* 
 
 ###Probenmontage
 * [ProSo 16.06.2013](https://www.flickr.com/gp/tsmoers/705916)
@@ -35,6 +37,7 @@ Ihr habt selbst noch Fotos von uns bei euch herumliegen, und wollt diese gerne n
 
 ###Sonstiges
 * [Abschlussgrillen 2013](https://www.flickr.com/photos/tsmoers/sets/72157654827640006)
+* [Gruppenfotos Februar 2015](https://www.flickr.com/gp/tsmoers/jy4433)
 Kleinere Mengen von Fotos, für die sich kein eigenes Album lohnt, finden sich [hier](https://www.flickr.com/gp/tsmoers/J8E2Ad)
 
 ##Videos
