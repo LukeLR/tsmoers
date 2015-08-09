@@ -62,6 +62,7 @@ Kleinere Mengen von Fotos, für die sich kein eigenes Album lohnt, finden sich [
 * [Konzerttrailer 1](https://www.youtube.com/watch?v=gNZKlokSyaE)
 * [Konzerttrailer 2](https://www.youtube.com/watch?v=iIZoKt5ebSo)
 * [Konzerttrailer 3 - Stadtaktion](https://www.youtube.com/watch?v=bXwih3QxnJc)
+* [Fotos](https://www.flickr.com/gp/tsmoers/2G24Zv)
 
 ###Sonstiges
 * [TEN SING Dasselseminar 2014 - Generalprobe](https://www.youtube.com/watch?v=-Du5bIJDmU8)
