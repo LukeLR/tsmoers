@@ -61,6 +61,7 @@ Ihr habt selbst noch Fotos von uns bei euch herumliegen, und wollt diese gerne n
 * [Gruppenfotos Februar 2015](https://www.flickr.com/gp/tsmoers/jy4433)
 * [Klangmulde / Hans' Geburtstag März 2015](https://www.flickr.com/gp/tsmoers/608FU9)
 * Unsortierte Fotos Sven (bis Sommer 2015)[1](https://www.flickr.com/gp/tsmoers/t65McA), [2](https://www.flickr.com/photos/tsmoers/sets/72157655184217525)
+
 Kleinere Mengen von Fotos, für die sich kein eigenes Album lohnt, finden sich [hier](https://www.flickr.com/gp/tsmoers/J8E2Ad)
 
 ##Videos
