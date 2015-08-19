@@ -59,8 +59,11 @@ Ihr habt selbst noch Fotos von uns bei euch herumliegen, und wollt diese gerne n
 ###Sonstiges
 * [Abschlussgrillen 2013](https://www.flickr.com/photos/tsmoers/sets/72157654827640006)
 * [Gruppenfotos Februar 2015](https://www.flickr.com/gp/tsmoers/jy4433)
-* [Klangmulde / Hans' Geburtstag März 2015](https://www.flickr.com/gp/tsmoers/608FU9)
 * Unsortierte Fotos Sven (bis Sommer 2015): [Teil 1](https://www.flickr.com/gp/tsmoers/t65McA), [Teil 2](https://www.flickr.com/photos/tsmoers/sets/72157655184217525)
+
+####Geburtstage
+* [Klangmulde / Hans' Geburtstag März 2015](https://www.flickr.com/gp/tsmoers/608FU9)
+* [Luzies Geburtstag 2015](https://www.flickr.com/gp/tsmoers/131TLW)
 
 Kleinere Mengen von Fotos, für die sich kein eigenes Album lohnt, finden sich [hier](https://www.flickr.com/gp/tsmoers/J8E2Ad)
 
