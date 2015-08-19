@@ -63,7 +63,7 @@ Ihr habt selbst noch Fotos von uns bei euch herumliegen, und wollt diese gerne n
 
 ####Geburtstage
 * [Klangmulde / Hans' Geburtstag März 2015](https://www.flickr.com/gp/tsmoers/608FU9)
-* [Luzies Geburtstag 2015](https://www.flickr.com/gp/tsmoers/131TLW)
+* [Luzies Geburtstag August 2015](https://www.flickr.com/gp/tsmoers/131TLW)
 
 Kleinere Mengen von Fotos, für die sich kein eigenes Album lohnt, finden sich [hier](https://www.flickr.com/gp/tsmoers/J8E2Ad)
 
