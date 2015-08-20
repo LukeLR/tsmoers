@@ -62,6 +62,7 @@ Kleinere Mengen von Fotos, für die sich kein eigenes Album lohnt, finden sich [
 ##Videos
 **Hinweis:** *Kursiv* gedruckte Links führen zu Videos, die dank der GEMA in Deutschland gesperrt sind und daher vermutlich nicht abgerufen werden können. Ich überlege mir noch eine Lösung dafür ;)
 * [ProWo-Videos](Videos/ProWos.md)
+* [Seminarvideos](Videos/Seminare.md)
 
 ###Proben
 * [Durchlaufprobe Konzert 2015 - Entern statt Kentern](https://www.youtube.com/watch?v=hxiDabQD1vA)
