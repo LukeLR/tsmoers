@@ -24,10 +24,6 @@ Ihr habt selbst noch Fotos von uns bei euch herumliegen, und wollt diese gerne n
 * [Probensonntage](Linkliste/Fotos/Probensonntage.md)
 * [Proben](Linkliste/Fotos/Proben.md)
 
-###Proben
-* [Probe am 29.04.2013](https://www.flickr.com/photos/tsmoers/sets/72157652569144643)
-* [Probe am 17.08.2015](https://www.flickr.com/gp/tsmoers/E4E0r0)
-
 ###TEN SING-Konzertbesuche
 * [TEN SING Borken 2013](https://www.flickr.com/gp/tsmoers/o24m3p)
 * [TEN SING Bielefeld 2013](https://www.flickr.com/gp/tsmoers/1V6jWH)
@@ -63,10 +59,7 @@ Kleinere Mengen von Fotos, für die sich kein eigenes Album lohnt, finden sich [
 * [ProWo-Videos](Linkliste/Videos/ProWos.md)
 * [Seminarvideos](Linkliste/Videos/Seminare.md)
 * [Konzertvideos](Linkliste/Videos/Konzerte.md)
-
-###Proben
-* [Durchlaufprobe Konzert 2015 - Entern statt Kentern](https://www.youtube.com/watch?v=hxiDabQD1vA)
-* [Irgendeine Chorprobe 2015 - Gefilmt von Sven](https://www.youtube.com/watch?v=ClJkxLV3qLU)
+* [Videos von den Proben](Linkliste/Videos/Proben.md)
 
 ###Sonstiges
 * [TEN SING Dasselseminar 2014 - Generalprobe](https://www.youtube.com/watch?v=-Du5bIJDmU8)
