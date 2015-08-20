@@ -25,6 +25,8 @@ Ihr habt selbst noch Fotos von uns bei euch herumliegen, und wollt diese gerne n
 * [Proben](Linkliste/Fotos/Proben.md)
 * [Konzertbesuche](Linkliste/Fotos/Konzertbesuche.md)
 
+**Liest du in dem blauen Buch, Neo, so werde ich dich zu allen weiteren Fotos führen. Wenn du dich aber für das rote Buch entscheidest, findest du dich bald bei sämtlichen Videos wieder.** [:blue_book:](Linkliste/Fotos/Sonstiges.md) [:closed_book](Linkliste/Videos/Sonstiges.md)
+
 ###Auftritte
 * [1. Mai 2013](https://www.flickr.com/gp/tsmoers/17DKJk)
 * [Kastellplatz Moers 2013](https://www.flickr.com/gp/tsmoers/7xC5AB)
