@@ -1,5 +1,9 @@
 #TEN SING Moers Linkliste!
 ![TEN SING Moers Logo](/footage/banner 2015/Flyer reloaded long low.png)
+
+##Neuigkeiten
+Für einen schnelleren Überblick findet ihr alle Bilder, die ich neu eingestellt habe, nochmal hier: [hier](Neuigkeiten)
+
 Hallo liebe TEN SINGer aus Moers,
 
 Hallo liebe TEN SINGer von anderswo
@@ -36,6 +40,7 @@ Ihr habt selbst noch Fotos von uns bei euch herumliegen, und wollt diese gerne n
 
 ###Probenmontage
 * [Probe am 29.04.2013](https://www.flickr.com/photos/tsmoers/sets/72157652569144643)
+* [Probe am 17.08.2015](https://www.flickr.com/gp/tsmoers/E4E0r0)
 
 ###TEN SING-Konzertbesuche
 * [TEN SING Borken 2013](https://www.flickr.com/gp/tsmoers/o24m3p)
@@ -113,3 +118,6 @@ Hier finden sich Mitschnitte unserer Konzerte, Proben oder Sonstigem als Audidat
 
 ###Sonstiges
 * [TEN SING Hörspiel 2013 - Wer hat an der Uhr gedreht?](https://www.dropbox.com/s/fous4cburrvicx2/TenSing-Hoerspiel2013-Komplett.mp3?dl=0)
+
+##Neuigkeiten
+**20.08.2015**: Bilder von der TEN SING-Probe am letzten Montag onlinegestellt: [klick](https://www.flickr.com/gp/tsmoers/E4E0r0)
