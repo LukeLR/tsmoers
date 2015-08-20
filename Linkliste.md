@@ -2,7 +2,7 @@
 ![TEN SING Moers Logo](/footage/banner 2015/Flyer reloaded long low.png)
 
 ##WICHTIG: Neuigkeiten
-Für einen schnelleren Überblick findet ihr alle Bilder, die ich neu eingestellt habe, nochmal [hier](#neuigkeiten). (Ganz am Ende der Seite)
+Für einen schnelleren Überblick findet ihr alle Bilder, die ich neu eingestellt habe, nochmal [hier](Linkliste/Neuigkeiten.md).
 
 ##Information
 
@@ -46,6 +46,3 @@ Hier finden sich Mitschnitte unserer Konzerte, Proben oder Sonstigem als Audidat
 * [Tanzmedleys](Linkliste/Audios/Medleys.md)
 * [Aufnahmen von unseren Proben](Linkliste/Audios/Probenaufnahmen.md)
 * [Sonstige Aufnahmen](Linkliste/Audios/Sonstiges.md)
-
-##Neuigkeiten
-**20.08.2015**: Bilder von der TEN SING-Probe am letzten Montag onlinegestellt: [klick](https://www.flickr.com/gp/tsmoers/E4E0r0)
