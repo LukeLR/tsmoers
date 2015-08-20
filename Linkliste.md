@@ -18,7 +18,7 @@ Dies ist die offizielle TEN SING Moers-Adressenliste! Wuhu! Hier stehen Internet
 Ihr habt selbst noch Fotos von uns bei euch herumliegen, und wollt diese gerne noch hier hinzufügen? Kein Problem! Besucht - am besten mit euren PC - den folgenden Link: http://bit.ly/TenSingFotosHochladen oder klickt [hier](http://bit.ly/TenSingFotosHochladen). Dort könnt ihr alle Fotos, die ihr hinzufügen wollt, über den "Dateien auswählen"-Knopf hinzufügen. Die Fotos landen dann bei mir - nur bei mir - und ich kann die dann hier noch in die Liste aufnehmen. Ihr braucht dafür auch kein Dropbox-Konto! Und wenn ihr Fragen dazu habt, schreibt mir doch einfach eine E-Mail an *cvjmrose[at]yahoo[punkt]de*.
 
 ##Fotos
-* [ProWos](Linkliste/Fotos/ProWos.md)
+* [ProWo-Fotos](Linkliste/Fotos/ProWos.md)
 * [Konzerte](Linkliste/Fotos/Konzerte.md)
 * [Seminare](Linkliste/Fotos/Seminare.md)
 
@@ -61,15 +61,7 @@ Kleinere Mengen von Fotos, für die sich kein eigenes Album lohnt, finden sich [
 
 ##Videos
 **Hinweis:** *Kursiv* gedruckte Links führen zu Videos, die dank der GEMA in Deutschland gesperrt sind und daher vermutlich nicht abgerufen werden können. Ich überlege mir noch eine Lösung dafür ;)
-###Bilder des Tages
-* [Tagesbilder ProWo 2011 - Teil 1](https://www.youtube.com/watch?v=KuSGHqkgjtA), *[Teil 2](https://www.youtube.com/watch?v=5v-0AtiDwAY)*, *[Teil 3](https://www.youtube.com/watch?v=GFzkesUXBw0)*, [Teil 4](https://www.youtube.com/watch?v=7GeaQ60GyVU)
-* [Tagesbilder ProWo April 2013](https://www.youtube.com/watch?v=c0FlPn8RrkE)
-* [Tagesbilder ProWo Juni 2013](https://www.youtube.com/watch?v=OTcYq589Nko)
-* [Tagesbilder ProWo November 2013](https://www.youtube.com/watch?v=2x8JGBskSW4)
-* [Tagesbilder ProWo Februar 2014](https://www.youtube.com/watch?v=Jh7BMdn5MpI)
-* [Tagesbilder ProWo Mai 2014 - Samstag](https://www.youtube.com/watch?v=HQ4THJipHIw), *[Sonntag](https://www.youtube.com/watch?v=vJnIyf9m4l4)*
-* [Tagesbilder ProWo November 2014](https://www.youtube.com/watch?v=AeT63lwcgbQ)
-* *[Tagesbilder ProWo Februar 2015](https://www.youtube.com/watch?v=eGaczNkO9gU)*
+* [ProWo-Videos](Videos/ProWos.md)
 
 ###Proben
 * [Durchlaufprobe Konzert 2015 - Entern statt Kentern](https://www.youtube.com/watch?v=hxiDabQD1vA)
