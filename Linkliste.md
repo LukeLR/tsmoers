@@ -21,7 +21,7 @@ Ihr habt selbst noch Fotos von uns bei euch herumliegen, und wollt diese gerne n
 * [ProWo-Fotos](Linkliste/Fotos/ProWos.md)
 * [Konzerte](Linkliste/Fotos/Konzerte.md)
 * [Seminare](Linkliste/Fotos/Seminare.md)
-* [Probensonntage](Linkliste/Fotos/Probensonntage.md)
+* [Probensonntage](Linkliste/Fotos/Probensonntage.md)
 * [Proben](Linkliste/Fotos/Proben.md)
 * [Konzertbesuche](Linkliste/Fotos/Konzertbesuche.md)
 * [Sonstige Auftritte](Linkliste/Fotos/Auftritte.md)
@@ -35,8 +35,8 @@ Ihr habt selbst noch Fotos von uns bei euch herumliegen, und wollt diese gerne n
 **Hinweis:** *Kursiv* gedruckte Links führen zu Videos, die dank der GEMA in Deutschland gesperrt sind und daher vermutlich nicht abgerufen werden können. Ich überlege mir noch eine Lösung dafür ;)
 
 * [ProWo-Videos](Linkliste/Videos/ProWos.md)
-* [Seminarvideos](Linkliste/Videos/Seminare.md)
-* [Konzertvideos](Linkliste/Videos/Konzerte.md)
+* [Seminarvideos](Linkliste/Videos/Seminare.md)
+* [Konzertvideos](Linkliste/Videos/Konzerte.md)
 * [Videos von den Proben](Linkliste/Videos/Proben.md)
 
 ##Audios
