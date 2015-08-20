@@ -2,7 +2,7 @@
 ![TEN SING Moers Logo](/footage/banner 2015/Flyer reloaded long low.png)
 
 ##WICHTIG: Neuigkeiten
-Für einen schnelleren Überblick findet ihr alle Bilder, die ich neu eingestellt habe, nochmal hier: [hier](##Neuigkeiten)
+Für einen schnelleren Überblick findet ihr alle Bilder, die ich neu eingestellt habe, nochmal hier: [hier](#neuigkeiten)
 
 ##Information
 
