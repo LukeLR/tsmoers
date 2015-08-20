@@ -63,21 +63,11 @@ Kleinere Mengen von Fotos, für die sich kein eigenes Album lohnt, finden sich [
 **Hinweis:** *Kursiv* gedruckte Links führen zu Videos, die dank der GEMA in Deutschland gesperrt sind und daher vermutlich nicht abgerufen werden können. Ich überlege mir noch eine Lösung dafür ;)
 * [ProWo-Videos](Linkliste/Videos/ProWos.md)
 * [Seminarvideos](Linkliste/Videos/Seminare.md)
+* [Konzertvideos](Linkliste/Videos/Konzerte.md)
 
 ###Proben
 * [Durchlaufprobe Konzert 2015 - Entern statt Kentern](https://www.youtube.com/watch?v=hxiDabQD1vA)
 * [Irgendeine Chorprobe 2015 - Gefilmt von Sven](https://www.youtube.com/watch?v=ClJkxLV3qLU)
-
-###Konzerte
-* [Konzert 2011 - World Vision Songcontest](https://www.youtube.com/watch?v=1iQlYyfMBVI)
-* *[Konzert 2013 - Wer hat an der Uhr gedreht?](https://www.youtube.com/watch?v=UkYiYnhFTEw)*
-
-####Konzert 2015: Entern statt Kentern - Pirat stolpert über Frieden
-* [Klatschrhythmen](https://www.youtube.com/watch?v=ZAKt2GK_wM4)
-* [Konzerttrailer 1](https://www.youtube.com/watch?v=gNZKlokSyaE)
-* [Konzerttrailer 2](https://www.youtube.com/watch?v=iIZoKt5ebSo)
-* [Konzerttrailer 3 - Stadtaktion](https://www.youtube.com/watch?v=bXwih3QxnJc)
-* [Fotos](https://www.flickr.com/gp/tsmoers/2G24Zv)
 
 ###Sonstiges
 * [TEN SING Dasselseminar 2014 - Generalprobe](https://www.youtube.com/watch?v=-Du5bIJDmU8)
