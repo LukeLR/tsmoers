@@ -27,7 +27,7 @@ Ihr habt selbst noch Fotos von uns bei euch herumliegen, und wollt diese gerne n
 * [Sonstige Auftritte](Linkliste/Fotos/Auftritte.md)
 * [Geburtstage](Linkliste/Fotos/Geburtstage.md)
 * [Sonstige CVJM-Ereignisse](Linkliste/Fotos/CVJM-Kram.md)
-![Jerusalemkreuz](../../footage/sonstiges/Jerusalemkreuz-extremklein.png) * [Kirchentage](Linkliste/Fotos/Kirchentag.md)
+* [![Jerusalemkreuz](footage/sonstiges/Jerusalemkreuz-extremklein.png) Kirchentage](Linkliste/Fotos/Kirchentag.md)
 
 **Liest du in dem blauen Buch, Neo, so werde ich dich zu allen weiteren Fotos führen. Wenn du dich aber für das rote Buch entscheidest, findest du dich bald bei sämtlichen Videos wieder.** [:blue_book:](Linkliste/Fotos/Sonstiges.md) [:closed_book:](Linkliste/Videos/Sonstiges.md)
 
