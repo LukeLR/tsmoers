@@ -1,8 +1,10 @@
 #TEN SING Moers Linkliste!
 ![TEN SING Moers Logo](/footage/banner 2015/Flyer reloaded long low.png)
 
-##Neuigkeiten
+##WICHTIG: Neuigkeiten
 Für einen schnelleren Überblick findet ihr alle Bilder, die ich neu eingestellt habe, nochmal hier: [hier](Neuigkeiten)
+
+##Information
 
 Hallo liebe TEN SINGer aus Moers,
 
