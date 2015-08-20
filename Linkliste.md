@@ -21,9 +21,8 @@ Ihr habt selbst noch Fotos von uns bei euch herumliegen, und wollt diese gerne n
 * [ProWo-Fotos](Linkliste/Fotos/ProWos.md)
 * [Konzerte](Linkliste/Fotos/Konzerte.md)
 * [Seminare](Linkliste/Fotos/Seminare.md)
-
-###Probensonntage
-* [ProSo 16.06.2013](https://www.flickr.com/gp/tsmoers/705916)
+* [Probensonntage](Linkliste/Fotos/Probensonntage.md)
+* [Proben](Linkliste/Fotos/Proben.md)
 
 ###Proben
 * [Probe am 29.04.2013](https://www.flickr.com/photos/tsmoers/sets/72157652569144643)
