@@ -41,19 +41,11 @@ Ihr habt selbst noch Fotos von uns bei euch herumliegen, und wollt diese gerne n
 
 ##Audios
 Hier finden sich Mitschnitte unserer Konzerte, Proben oder Sonstigem als Audidatei zum Anhören! (Und herunterladen)
-###Konzerte
-* [Konzert 2014: Apokalypse](https://soundcloud.com/ten-sing-moers/sets/apokalypse-ten-sing-moers-konzert-2014)
-* [Konzert 2015: Entern statt Kentern - Pirat stolpert über Frieden](https://soundcloud.com/ten-sing-moers/sets/konzert-2015-entern-statt)
 
-###Medleys
-* [TEN SING Tanzmedley 1 - Konzert 2013 - Wer hat an der Uhr gedreht](https://www.dropbox.com/s/cv6c468evkvzziv/TenSing-Tanzmix2013_V3.m4a?dl=0)
-* [TEN SING Tanzmedley 2 - Konzert 2013 - Wer hat an der Uhr gedreht](https://www.dropbox.com/s/e8j2wokfl1ak3fg/TenSing-Tanzmix2013-2_V1.mp3?dl=0)
-
-###Probenaufnahmen
-* [Konzert 2015 - Probe - All of me](https://soundcloud.com/ten-sing-moers/probenaufnahme-tensing-chor)
-
-###Sonstiges
-* [TEN SING Hörspiel 2013 - Wer hat an der Uhr gedreht?](https://www.dropbox.com/s/fous4cburrvicx2/TenSing-Hoerspiel2013-Komplett.mp3?dl=0)
+* [Konzertaufnahmen](Linkliste/Audios/Konzertaufnahmen.md)
+* [Tanzmedleys](Linkliste/Audios/Medleys.md)
+* [Aufnahmen von unseren Proben](Linkliste/Audios/Probenaufnahmen.md)
+* [Sonstige Aufnahmen](Linkliste/Audios/Sonstiges.md)
 
 ##Neuigkeiten
 **20.08.2015**: Bilder von der TEN SING-Probe am letzten Montag onlinegestellt: [klick](https://www.flickr.com/gp/tsmoers/E4E0r0)
