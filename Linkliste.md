@@ -19,10 +19,7 @@ Ihr habt selbst noch Fotos von uns bei euch herumliegen, und wollt diese gerne n
 
 ##Fotos
 * [ProWos](Linkliste/Fotos/ProWos.md)
-
-###Konzerte
-* [Konzert 2013 - Wer hat an der Uhr gedreht?](https://www.flickr.com/gp/tsmoers/Qnqup7)
-* [Konzert 2015 - Entern statt Kentern: Pirat stolpert über Frieden](https://www.flickr.com/gp/tsmoers/2G24Zv)
+* [Konzerte](Linkliste/Fotos/Konzerte.md)
 
 ###Seminare
 * [Dasselseminar 2013: Da wird ja der Bär auf dem Rummel verrückt!](https://www.flickr.com/gp/tsmoers/003h14)
