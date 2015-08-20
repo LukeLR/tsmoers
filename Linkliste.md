@@ -23,10 +23,7 @@ Ihr habt selbst noch Fotos von uns bei euch herumliegen, und wollt diese gerne n
 * [Seminare](Linkliste/Fotos/Seminare.md)
 * [Probensonntage](Linkliste/Fotos/Probensonntage.md)
 * [Proben](Linkliste/Fotos/Proben.md)
-
-###TEN SING-Konzertbesuche
-* [TEN SING Borken 2013](https://www.flickr.com/gp/tsmoers/o24m3p)
-* [TEN SING Bielefeld 2013](https://www.flickr.com/gp/tsmoers/1V6jWH)
+* [Konzertbesuche](Linkliste/Fotos/Konzertbesuche.md)
 
 ###Auftritte
 * [1. Mai 2013](https://www.flickr.com/gp/tsmoers/17DKJk)
