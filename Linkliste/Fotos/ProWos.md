@@ -1,5 +1,5 @@
 #ProWo-Fotos
-Hier findest du alle Fotos von unseren TEN SING-ProWos! Um wieder zur Hauptseite der Linkliste zu gelangen, klicke [hier](../Linkliste.md)
+Hier findest du alle Fotos von unseren TEN SING-ProWos! Um wieder zur Hauptseite der Linkliste zu gelangen, klicke [hier](../../Linkliste.md)
 
 * [ProWo April 2013 - CVJM Moers](https://www.flickr.com/gp/tsmoers/1yk30m)
 * [ProWo Juni 2013 - CVJM Moers](https://www.flickr.com/gp/tsmoers/qRPxa9)
