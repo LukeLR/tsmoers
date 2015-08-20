@@ -9,5 +9,4 @@ Wir haben ja bisher schon einige coole Konzerte auf die Beine gestellt! :thumbsu
 * [Klatschrhythmen](https://www.youtube.com/watch?v=ZAKt2GK_wM4)
 * [Konzerttrailer 1](https://www.youtube.com/watch?v=gNZKlokSyaE)
 * [Konzerttrailer 2](https://www.youtube.com/watch?v=iIZoKt5ebSo)
-* [Konzerttrailer 3 - Stadtaktion](https://www.youtube.com/watch?v=bXwih3QxnJc)
 * [Fotos](https://www.flickr.com/gp/tsmoers/2G24Zv)

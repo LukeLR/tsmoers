@@ -24,34 +24,12 @@ Ihr habt selbst noch Fotos von uns bei euch herumliegen, und wollt diese gerne n
 * [Probensonntage](Linkliste/Fotos/Probensonntage.md)
 * [Proben](Linkliste/Fotos/Proben.md)
 * [Konzertbesuche](Linkliste/Fotos/Konzertbesuche.md)
+* [Sonstige Auftritte](Linkliste/Fotos/Auftritte.md)
+* [Geburtstage](Linkliste/Fotos/Geburtstage.md)
+* [Sonstige CVJM-Ereignisse](Linkliste/Fotos/CVJM-Kram.md)
+* [Kirchentage](Linkliste/Fotos/Kirchentag.md)
 
 **Liest du in dem blauen Buch, Neo, so werde ich dich zu allen weiteren Fotos führen. Wenn du dich aber für das rote Buch entscheidest, findest du dich bald bei sämtlichen Videos wieder.** [:blue_book:](Linkliste/Fotos/Sonstiges.md) [:closed_book:](Linkliste/Videos/Sonstiges.md)
-
-###Auftritte
-* [1. Mai 2013](https://www.flickr.com/gp/tsmoers/17DKJk)
-* [Kastellplatz Moers 2013](https://www.flickr.com/gp/tsmoers/7xC5AB)
-* [1. Mai 2015](https://www.flickr.com/gp/tsmoers/W5F6gb)
-
-###CVJM-Kram
-* [Pfingstzeltlager 2013](https://www.flickr.com/gp/tsmoers/578wC7)
-  * [Pfingstzeltlager 2013 Vorbereitungswochenende](https://www.flickr.com/gp/tsmoers/i877t9)
-* [Pfingstzeltlager 2014: Asterix und Obelix](https://www.flickr.com/gp/tsmoers/cQo237)
-* [NL40 Segelfreizeit 2014](https://www.flickr.com/gp/tsmoers/0RpLD0)
-* [Pfingstzeltlager 2015: Ritterspiele](https://www.flickr.com/gp/tsmoers/Bn4C67)
-
-###Kirchentage
-* [Kirchentag 2013 Hamburg: So viel du brauchst](https://www.flickr.com/gp/tsmoers/1MhSC0)
-
-###Sonstiges
-* [Abschlussgrillen 2013](https://www.flickr.com/photos/tsmoers/sets/72157654827640006)
-* [Gruppenfotos Februar 2015](https://www.flickr.com/gp/tsmoers/jy4433)
-* Unsortierte Fotos Sven (bis Sommer 2015): [Teil 1](https://www.flickr.com/gp/tsmoers/t65McA), [Teil 2](https://www.flickr.com/photos/tsmoers/sets/72157655184217525)
-
-####Geburtstage
-* [Klangmulde / Hans' Geburtstag März 2015](https://www.flickr.com/gp/tsmoers/608FU9)
-* [Luzies Geburtstag August 2015](https://www.flickr.com/gp/tsmoers/131TLW)
-
-Kleinere Mengen von Fotos, für die sich kein eigenes Album lohnt, finden sich [hier](https://www.flickr.com/gp/tsmoers/J8E2Ad)
 
 ##Videos
 **Hinweis:** *Kursiv* gedruckte Links führen zu Videos, die dank der GEMA in Deutschland gesperrt sind und daher vermutlich nicht abgerufen werden können. Ich überlege mir noch eine Lösung dafür ;)
@@ -59,10 +37,6 @@ Kleinere Mengen von Fotos, für die sich kein eigenes Album lohnt, finden sich [
 * [Seminarvideos](Linkliste/Videos/Seminare.md)
 * [Konzertvideos](Linkliste/Videos/Konzerte.md)
 * [Videos von den Proben](Linkliste/Videos/Proben.md)
-
-###Sonstiges
-* [TEN SING Dasselseminar 2014 - Generalprobe](https://www.youtube.com/watch?v=-Du5bIJDmU8)
-* [TEN SING Dasselseminar 2014 - Konzert](https://www.youtube.com/watch?v=2HSTYSQLuMY)
 
 ##Audios
 Hier finden sich Mitschnitte unserer Konzerte, Proben oder Sonstigem als Audidatei zum Anhören! (Und herunterladen)
