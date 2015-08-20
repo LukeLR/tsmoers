@@ -40,7 +40,7 @@ Ihr habt selbst noch Fotos von uns bei euch herumliegen, und wollt diese gerne n
 ###Probensonntage
 * [ProSo 16.06.2013](https://www.flickr.com/gp/tsmoers/705916)
 
-###Probenmontage
+###Proben
 * [Probe am 29.04.2013](https://www.flickr.com/photos/tsmoers/sets/72157652569144643)
 * [Probe am 17.08.2015](https://www.flickr.com/gp/tsmoers/E4E0r0)
 
