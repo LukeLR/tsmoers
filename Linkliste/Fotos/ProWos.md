@@ -12,3 +12,4 @@ Hier findet ihr alle Fotos von unseren TEN SING-ProWos! Für Videos von den ProW
 * [ProWo Mai 2014 - Eichenkreuzheim](https://www.flickr.com/gp/tsmoers/88f623) 
 * [ProWo Oktober 2014 - CVJM Moers](https://www.flickr.com/gp/tsmoers/1q0d9q)
 * [ProWo März 2015 - CVJM Moers](https://www.flickr.com/gp/tsmoers/t35924)
+* [ProWo November 2015 - CVJM Moers](https://www.flickr.com/gp/tsmoers/3o3u47)
