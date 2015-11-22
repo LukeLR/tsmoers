@@ -1,10 +1,7 @@
 #TEN SING Moers Linkliste!
 ![TEN SING Moers Logo](/footage/banner 2015/Flyer reloaded long low.png)
 
-##WICHTIG: Neuigkeiten
-Für einen schnelleren Überblick findet ihr alle Bilder, die ich neu eingestellt habe, nochmal [hier](Linkliste/Neuigkeiten.md).
-
-**16.11.2015**: ProWo-Bilder **und Bilder des Tages** online!! :tada: :smiley: Siehe unter [Neuigkeiten](Linkliste/Neuigkeiten.md)!!
+##[Neuigkeiten](Linkliste/Neuigkeiten.md)
 
 ##Information
 
