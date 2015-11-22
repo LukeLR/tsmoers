@@ -3,7 +3,7 @@
 
 ##[Neuigkeiten](Linkliste/Neuigkeiten.md)
 
-##Information
+##Infos:
 
 Hallo liebe TEN SINGer aus Moers,
 
