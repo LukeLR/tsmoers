@@ -2,6 +2,9 @@
 ![TEN SING Moers Logo](/footage/banner 2015/Flyer reloaded long low.png)
 Ihr wollt nur mal schnell nachschauen, ob in der letzten Zeit etwas neues passiert ist? Dann seid ihr hier genau richtig! Denn hier findet ihr alle neuen Fotos, Videos und anderen Inhalte nach Datum aufgelistet! Yippieh! :tada: :smiley: Und zurück zur Startseite geht's [hier](../Linkliste.md)!
 
+**24.11.2015**
+* Die Aufnahme von "One two three four" ist online! Das ist der Song, den wir am 23.11. für unsere Demo geprobt haben! [klick hier!](Audios/Probenaufnahmen.md)
+
 **16.11.2015**
 * Die Fotos des letzten ProWos (November 2015) wurden freigeschaltet: [klick](Fotos/ProWos.md)
 * Die Bilder des Tages des letzten ProWos sind online! [klick hier](Videos/ProWos.md)
