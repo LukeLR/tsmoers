@@ -5,6 +5,9 @@ Ihr wollt nur mal schnell nachschauen, ob in der letzten Zeit etwas neues passie
 **04.02.2016: TS Moers feat. Duisburg Süd!!**
 * Das erste Update aus dem neuen Jahr! Yippieh! Wir hatten ein geiles Spaßwochenende mit TenSing Duisburg Süd, und [hier sind die Bilder des Tages!](https://youtu.be/xo-MoqwWJeg)
 
+**31.01.2016: Update zum Konzertvideo**
+* Das Konzertvideo zum letzten Konzert *Entern statt Kentern - Pirat stolpert über Frieden* wurde wegen den enthaltenen Songs auf YouTube gesperrt. Ich überlege mir was!
+
 **12.12.2015: JULE IST DER NIKOLAUS!!** :anguished: :flushed:
 * Das Video von unserer Adventsandacht ist online! Na? Klingelt's? Ihr wisst schon - das, wo Jule als Nikolaus aufgetreten ist! :tada: :joy: :joy: :smiley: Ich habe es cool und aufwändig geschnitten, guckt es euch an! Und zwar [hier!](https://youtu.be/vmY8f8g0ISk)!
 * Die Originalversion dazu (ungeschnitten) lauert [hier](https://www.youtube.com/watch?v=bouE8SAgRj0) auf euch.
