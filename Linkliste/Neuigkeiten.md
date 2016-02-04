@@ -2,6 +2,9 @@
 ![TEN SING Moers Logo](/footage/banner 2015/Flyer reloaded long low.png)
 Ihr wollt nur mal schnell nachschauen, ob in der letzten Zeit etwas neues passiert ist? Dann seid ihr hier genau richtig! Denn hier findet ihr alle neuen Fotos, Videos und anderen Inhalte nach Datum aufgelistet! Yippieh! :tada: :smiley: Und zurück zur Startseite geht's [hier](../Linkliste.md)!
 
+**04.02.2016: TS Moers feat. Duisburg Süd!!**
+* Das erste Update aus dem neuen Jahr! Yippieh! Wir hatten ein geiles Spaßwochenende mit TenSing Duisburg Süd, und [hier sind die Bilder des Tages!](https://youtu.be/xo-MoqwWJeg)
+
 **12.12.2015: JULE IST DER NIKOLAUS!!** :anguished: :flushed:
 * Das Video von unserer Adventsandacht ist online! Na? Klingelt's? Ihr wisst schon - das, wo Jule als Nikolaus aufgetreten ist! :tada: :joy: :joy: :smiley: Ich habe es cool und aufwändig geschnitten, guckt es euch an! Und zwar [hier!](https://youtu.be/vmY8f8g0ISk)!
 * Die Originalversion dazu (ungeschnitten) lauert [hier](https://www.youtube.com/watch?v=bouE8SAgRj0) auf euch.
