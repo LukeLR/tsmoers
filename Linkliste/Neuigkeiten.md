@@ -3,7 +3,7 @@
 Ihr wollt nur mal schnell nachschauen, ob in der letzten Zeit etwas neues passiert ist? Dann seid ihr hier genau richtig! Denn hier findet ihr alle neuen Fotos, Videos und anderen Inhalte nach Datum aufgelistet! Yippieh! :tada: :smiley: Und zurück zur Startseite geht's [hier](../Linkliste.md)!
 
 **04.02.2016: TS Moers feat. Duisburg Süd!!**
-* Das erste Update aus dem neuen Jahr! Yippieh! Wir hatten ein geiles Spaßwochenende mit TenSing Duisburg Süd, und [hier sind die Bilder des Tages!](https://youtu.be/xo-MoqwWJeg)
+* Das erste Update aus dem neuen Jahr! Yippieh! Wir hatten ein geiles Spaßwochenende mit TenSing Duisburg Süd, und [hier sind die Bilder des Tages!](https://www.youtube.com/watch?v=dtbJ9xCGZ00)
 
 **31.01.2016: Update zum Konzertvideo**
 * Das Konzertvideo zum letzten Konzert *Entern statt Kentern - Pirat stolpert über Frieden* wurde wegen den enthaltenen Songs auf YouTube gesperrt. Ich überlege mir was!
