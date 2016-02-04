@@ -14,3 +14,4 @@ Auf dieser Seite sind alle :movie_camera: Videos von unseren abgefahrenen TEN SI
 * [Tagesbilder ProWo November 2015](https://www.youtube.com/watch?v=ihExeNjyJ8E)
   * **Update** Das Video ist online! Yay! :tada: :smiley:
   * Werden noch nachgereicht, das Video muss erst angepasst werden, da die verwendeten Lieder urheberrechtlich geschützt sind, und deshalb YouTube die Tonspur entfernt hat. Ich werde das Video also nochmal neu erstellen.
+* [Tagesbilder SpaWo mit TS Duisburg-Süd Januar 2016](https://youtu.be/xo-MoqwWJeg)
