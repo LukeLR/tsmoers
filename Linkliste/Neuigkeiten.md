@@ -5,7 +5,8 @@ Ihr wollt nur mal schnell nachschauen, ob in der letzten Zeit etwas neues passie
 **15.03.2016: ProWo März Bilder des Tages!**
 * Das Bilder-des-Tages-Video zum letzten ProWo ist online! [Schaut es euch an!](https://youtu.be/p9eVqteY3nw)
 * Die gesamten ProWo-Fotos sind online, und können [hier](https://www.flickr.com/gp/tsmoers/jy8513) angesehen werden! [Click!](https://www.flickr.com/gp/tsmoers/jy8513)
-* Die Fotos vom SpaWo sind endlich online!! [Alle Fotos](https://www.flickr.com/gp/tsmoers/61sZAg), [Fotos von Lukas](https://www.flickr.com/gp/tsmoers/033109), [Fotos von Stefan](https://www.flickr.com/gp/tsmoers/AKVXy9), [Fotos von Sven 1](https://www.flickr.com/gp/tsmoers/5i0o9E), [Fotos von Sven 2](https://www.flickr.com/gp/tsmoers/T7e1mX)
+* Die Fotos vom SpaWo sind endlich online!! [Alle Fotos](https://www.flickr.com/gp/tsmoers/61sZAg), [Fotos von Lukas](https://www.flickr.com/gp/tsmoers/033109), [Fotos von Stefan](https://www.flickr.com/gp/tsmoers/AKVXy9), [Fotos von Sven 1](https://www.flickr.com/gp/tsmoers/5i0o9E), [Fotos von Sven 2](https://www.flickr.com/gp/tsmoers/T7e1mX), [Bilder des Tages](https://www.flickr.com/gp/tsmoers/D0099v)
+* Videso vom Spaßwochenende sind online, und zwar [hier](https://www.flickr.com/gp/tsmoers/520J93)!
 
 **04.02.2016: TS Moers feat. Duisburg Süd!!**
 * Das erste Update aus dem neuen Jahr! Yippieh! Wir hatten ein geiles Spaßwochenende mit TenSing Duisburg Süd, und [hier sind die Bilder des Tages!](https://www.youtube.com/watch?v=dtbJ9xCGZ00)
