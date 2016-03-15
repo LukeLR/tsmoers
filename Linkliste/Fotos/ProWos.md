@@ -13,4 +13,5 @@ Hier findet ihr alle Fotos von unseren TEN SING-ProWos! Für Videos von den ProW
 * [ProWo Oktober 2014 - CVJM Moers](https://www.flickr.com/gp/tsmoers/1q0d9q)
 * [ProWo März 2015 - CVJM Moers](https://www.flickr.com/gp/tsmoers/t35924)
 * [ProWo November 2015 - CVJM Moers](https://www.flickr.com/gp/tsmoers/3o3u47)
+* Spaßwochenende mit Duisburg Süd Januar 2016: [Alle Fotos](https://www.flickr.com/gp/tsmoers/61sZAg), [Fotos von Lukas](https://www.flickr.com/gp/tsmoers/033109), [Fotos von Stefan](https://www.flickr.com/gp/tsmoers/AKVXy9), [Fotos von Sven 1](https://www.flickr.com/gp/tsmoers/5i0o9E), [Fotos von Sven 2](https://www.flickr.com/gp/tsmoers/T7e1mX)
 * [ProWo März 2016 - CVJM Moers](https://www.flickr.com/gp/tsmoers/jy8513)
