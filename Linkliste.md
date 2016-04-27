@@ -3,6 +3,8 @@
 
 ##[Neuigkeiten](Linkliste/Neuigkeiten.md)
 
+Die aktuellsten Fotos, Videos und Audios findest du [hier](Linkliste/Neuigkeiten.md) schön übersichtlich aufgelistet! :)
+
 ##Infos:
 
 Hallo liebe TEN SINGer aus Moers,
