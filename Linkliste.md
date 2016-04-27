@@ -3,7 +3,7 @@
 
 ##[Neuigkeiten](Linkliste/Neuigkeiten.md)
 
-Die aktuellsten Fotos, Videos und Audios findest du [hier](Linkliste/Neuigkeiten.md) schön übersichtlich aufgelistet! :)
+Die aktuellsten Fotos, Videos und Audios findest du [hier](Linkliste/Neuigkeiten.md) schön übersichtlich aufgelistet! :smile:
 
 ##Infos:
 
