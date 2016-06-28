@@ -1,5 +1,5 @@
 ![TEN SING Moers Logo](/footage/banner 2015/Flyer reloaded long low.png)
-In unseren Programmheften erscheinen neben den Texten über TenSing eine Menge cooler Fotos! Auf jeden Fall sehenswert! :party: Um wieder zur Hauptseite der Linkliste zu gelangen, klicke [hier](../../Linkliste.md)
+In unseren Programmheften erscheinen neben den Texten über TenSing eine Menge cooler Fotos! Auf jeden Fall sehenswert! :tada: Um wieder zur Hauptseite der Linkliste zu gelangen, klicke [hier](../../Linkliste.md)
 
 # Programmhefte
 - Wer hat an der Uhr gedreht? - Das Programmheft 2013! [online ansehen](http://bit.ly/Programmheft2013)
