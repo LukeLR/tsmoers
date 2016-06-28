@@ -49,6 +49,6 @@ Hier finden sich Mitschnitte unserer Konzerte, Proben oder Sonstigem als Audidat
 * [Sonstige Aufnahmen](Linkliste/Audios/Sonstiges.md)
 
 ##Sonstiges
-Hier findet sich Sonstiges TenSing-Material:
+Hier findet sich anderer cooler TenSing-Kram! :tada:
 
 * [Programmhefte](Linkliste/Sonstiges/Programmhefte.md)
