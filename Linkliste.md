@@ -47,3 +47,8 @@ Hier finden sich Mitschnitte unserer Konzerte, Proben oder Sonstigem als Audidat
 * [Tanzmedleys](Linkliste/Audios/Medleys.md)
 * [Aufnahmen von unseren Proben](Linkliste/Audios/Probenaufnahmen.md)
 * [Sonstige Aufnahmen](Linkliste/Audios/Sonstiges.md)
+
+##Sonstiges
+Hier findet sich Sonstiges TenSing-Material:
+
+* [Programmhefte](Linkliste/Sonstiges/Programmhefte.md)
