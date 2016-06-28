@@ -5,8 +5,7 @@
 Klickt [hier](Links.md), um euch die Liste der verfügbaren Fotos, Videos und Co. anzusehen!
 
 ##[Neuigkeiten](Linkliste/Neuigkeiten.md)
-- **Wichtig!!** Die gesamte Übersicht der Fotos und Videos ist zur besseren Übersicht auf eigene Seite gewandert! Sie findet sich nun [hier](Links.md)! :tada:
-- Die aktuellsten Fotos, Videos und Audios findest du [hier](Linkliste/Neuigkeiten.md) schön übersichtlich aufgelistet! :smile:
+Die aktuellsten Fotos, Videos und Audios findest du [hier](Linkliste/Neuigkeiten.md) schön übersichtlich aufgelistet! :smile:
 
 ##Infos:
 
