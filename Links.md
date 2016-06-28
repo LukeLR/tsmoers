@@ -1,6 +1,6 @@
 ![TEN SING Moers Logo](/footage/banner 2015/Flyer reloaded long low.png)
 # Die Links
-Ohne viel Geschwafel, hier direkt die ganzen coolen TenSing-Sachen aufgelistet!
+Ohne viel Geschwafel, hier direkt die ganzen coolen TenSing-Sachen aufgelistet! Und zurück zur Startseite geht's [hier](../Linkliste.md)!
 
 ##Fotos
 * [ProWo-Fotos](Linkliste/Fotos/ProWos.md)
