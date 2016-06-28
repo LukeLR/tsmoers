@@ -2,6 +2,7 @@
 ![TEN SING Moers Logo](/footage/banner 2015/Flyer reloaded long low.png)
 
 ##[Zu den Links!](Links.md)
+Klickt [hier](Links.md), um euch die Liste der verfügbaren Fotos, Videos und Co. anzusehen!
 
 ##[Neuigkeiten](Linkliste/Neuigkeiten.md)
 - **Wichtig!!** Die gesamte Übersicht der Fotos und Videos ist zur besseren Übersicht auf eigene Seite gewandert! Sie findet sich nun [hier](Links.md)! :tada:
