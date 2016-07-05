@@ -8,4 +8,4 @@ Da wir TEN SINGer natürlich nicht nur TEN SING, sondern auch sonst so einiges i
 * [NL40 Segelfreizeit 2014](https://www.flickr.com/gp/tsmoers/0RpLD0)
 * [Pfingstzeltlager 2015: Ritterspiele](https://www.flickr.com/gp/tsmoers/Bn4C67)
 
-Aber weil man auf so Freizeiten auch gerne mal Heimweh hat, geht's natürlich [hier](../../Linkliste.md) zurück nach Hause! :wink:
+Aber weil man auf so Freizeiten auch gerne mal Heimweh hat, geht's natürlich [hier](../../Links.md) zurück nach Hause! :wink:

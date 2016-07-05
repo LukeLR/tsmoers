@@ -6,4 +6,4 @@
 * [TEN SING Tanzmedley 1 - Konzert 2015 - Entern statt Kentern: Pirat stolpert über Frieden](https://www.dropbox.com/s/ntt6tnf37dzthxi/TenSing%20Tanz%201%202015.mp3?dl=0)
 * [TEN SING Tanzmedley 2 - Konzert 2015 - Entern statt Kentern: Pirat stolpert über Frieden](https://www.dropbox.com/s/vlj3r6kk6mztx40/TenSing%20Tanz%202%202015.mp3?dl=0)
 
-[zurück zur Startseite](../../Linkliste.md)
+[zurück zur Startseite](../../Links.md)

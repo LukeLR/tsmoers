@@ -1,6 +1,6 @@
 #ProWo-Videos
 ![TEN SING Moers Logo](/footage/banner 2015/Flyer reloaded long low.png)
-Auf dieser Seite sind alle :movie_camera: Videos von unseren abgefahrenen TEN SING-ProWos gelistet! Wenn ihr euch die dazugehörigen Fotos ansehen wollt, bitte :point_up: [hier klicken](../Fotos/Prowos.md)! Und natürlich gibt es auch wie immer einen Hinterausgang, der zurück zur [Startseite](../../Linkliste.md) führt! :wink:
+Auf dieser Seite sind alle :movie_camera: Videos von unseren abgefahrenen TEN SING-ProWos gelistet! Wenn ihr euch die dazugehörigen Fotos ansehen wollt, bitte :point_up: [hier klicken](../Fotos/Prowos.md)! Und natürlich gibt es auch wie immer einen Hinterausgang, der zurück zur [Startseite](../../Links.md) führt! :wink:
 
 ##Bilder des Tages
 * [Tagesbilder ProWo 2011 - Teil 1](https://www.youtube.com/watch?v=KuSGHqkgjtA), *[Teil 2](https://www.youtube.com/watch?v=5v-0AtiDwAY)*, *[Teil 3](https://www.youtube.com/watch?v=GFzkesUXBw0)*, [Teil 4](https://www.youtube.com/watch?v=7GeaQ60GyVU)
