@@ -2,6 +2,9 @@
 ![TEN SING Moers Logo](/footage/banner 2015/Flyer reloaded long low.png)
 Ihr wollt nur mal schnell nachschauen, ob in der letzten Zeit etwas neues passiert ist? Dann seid ihr hier genau richtig! Denn hier findet ihr alle neuen Fotos, Videos und anderen Inhalte nach Datum aufgelistet! Yippieh! :tada: :smiley: Und zurück zur Startseite geht's [hier](../Linkliste.md)!
 
+**05.07.2016: Die Fotos vom Grillen sind da!**
+* Ich habe die Fotos vom Abschiedsgrillen online gestellt! Ihr findet sie [hier (klick!)](Fotos/Grillen.md)
+
 **28.06.2016: Die Programmhefte sind online!** :tada:
 * Ich habe die Programmhefte des diesjährigen und aller vorherigen Auftritte seit 2013 online gestellt! Sie enthalten viele Fotos und sind auf jeden Fall sehenswert! [Klick hier!](Sonstiges/Programmhefte.md)
 
