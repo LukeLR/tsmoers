@@ -1,5 +1,5 @@
 #ProWo-Fotos
-![TEN SING Moers Logo](/footage/banner 2015/Flyer reloaded long low.png)
+![TEN SING Moers Logo](/footage/banner 2016/Banner-1700px.jpg)
 Hier findet ihr alle Fotos von unseren TEN SING-ProWos! Für Videos von den ProWos bitte :point_right: [hier entlang](../Videos/ProWos.md)! Um wieder zur Hauptseite der Linkliste zu gelangen, klicke [hier](../../Linkliste.md)
 
 * [ProWo April 2013 - CVJM Moers](https://www.flickr.com/gp/tsmoers/1yk30m)
