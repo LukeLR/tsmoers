@@ -8,6 +8,7 @@ Ohne viel Geschwafel, hier direkt die ganzen coolen TenSing-Sachen aufgelistet! 
 * [Seminare](Linkliste/Fotos/Seminare.md)
 * [Probensonntage](Linkliste/Fotos/Probensonntage.md)
 * [Proben](Linkliste/Fotos/Proben.md)
+* [Grillen](Linkliste/Fotos/Grillen.md)
 * [Konzertbesuche](Linkliste/Fotos/Konzertbesuche.md)
 * [Sonstige Auftritte](Linkliste/Fotos/Auftritte.md)
 * [Geburtstage](Linkliste/Fotos/Geburtstage.md)
