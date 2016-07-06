@@ -5,6 +5,7 @@ Ihr wollt nur mal schnell nachschauen, ob in der letzten Zeit etwas neues passie
 **05.07.2016**
 * Die Fotos vom Grillen sind da! Ich habe die Fotos vom Abschiedsgrillen online gestellt! Ihr findet sie [hier (klick!)](Fotos/Grillen.md)
 * Hans' Fotos vom 1. Reunion-Treffen sind online! (Zusätzlich zu den Fotos von Lukas). Ihr findet sie [hier](Fotos/Probensonntage.md)!
+* Sven's Fotos vom Konzert dieses Jahr sind online!! Ihr findet sie [hier](Fotos/Konzerte.md)!!
 
 **28.06.2016: Die Programmhefte sind online!** :tada:
 * Ich habe die Programmhefte des diesjährigen und aller vorherigen Auftritte seit 2013 online gestellt! Sie enthalten viele Fotos und sind auf jeden Fall sehenswert! [Klick hier!](Sonstiges/Programmhefte.md)
