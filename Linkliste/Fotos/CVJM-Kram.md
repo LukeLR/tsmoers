@@ -7,5 +7,6 @@ Da wir TEN SINGer natürlich nicht nur TEN SING, sondern auch sonst so einiges i
 * [Pfingstzeltlager 2014: Asterix und Obelix](https://www.flickr.com/gp/tsmoers/cQo237)
 * [NL40 Segelfreizeit 2014](https://www.flickr.com/gp/tsmoers/0RpLD0)
 * [Pfingstzeltlager 2015: Ritterspiele](https://www.flickr.com/gp/tsmoers/Bn4C67)
+* [Pfingstzeltlager 2016: Piraten](http://bit.ly/Pfingstzeltlager2016Fotos)
 
 Aber weil man auf so Freizeiten auch gerne mal Heimweh hat, geht's natürlich [hier](../../Links.md) zurück nach Hause! :wink:
