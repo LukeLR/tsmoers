@@ -1,5 +1,5 @@
 #CVJM-Kram-Fotos
-![TEN SING Moers Logo](/footage/banner 2015/Flyer reloaded long low.png)
+![TEN SING Moers Logo](/footage/banner 2016/Banner-1700px.jpg)
 Da wir TEN SINGer natürlich nicht nur TEN SING, sondern auch sonst so einiges im #CVJM machen, finden sich hier auch einige Photografien :camera: davon:
 
 * [Pfingstzeltlager 2013](https://www.flickr.com/gp/tsmoers/578wC7)

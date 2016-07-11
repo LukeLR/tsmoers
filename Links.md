@@ -1,4 +1,4 @@
-![TEN SING Moers Logo](/footage/banner 2015/Flyer reloaded long low.png)
+![TEN SING Moers Logo](/footage/banner 2016/Banner-1700px.jpg)
 # Die Links
 Ohne viel Geschwafel, hier direkt die ganzen coolen TenSing-Sachen aufgelistet! Und zurück zur Startseite geht's [hier](Linkliste.md)!
 

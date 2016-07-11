@@ -1,5 +1,5 @@
 #Neuigkeiten
-![TEN SING Moers Logo](/footage/banner 2015/Flyer reloaded long low.png)
+![TEN SING Moers Logo](/footage/banner 2016/Banner-1700px.jpg)
 Ihr wollt nur mal schnell nachschauen, ob in der letzten Zeit etwas neues passiert ist? Dann seid ihr hier genau richtig! Denn hier findet ihr alle neuen Fotos, Videos und anderen Inhalte nach Datum aufgelistet! Yippieh! :tada: :smiley: Und zurück zur Startseite geht's [hier](../Linkliste.md)!
 
 **05.07.2016**

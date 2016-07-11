@@ -1,5 +1,5 @@
 #Konzertaufnahmen
-![TEN SING Moers Logo](/footage/banner 2015/Flyer reloaded long low.png)
+![TEN SING Moers Logo](/footage/banner 2016/Banner-1700px.jpg)
 
 Yay! Tonaufnahmen von unseren Konzerten! Zum immer-wieder-wieder-wieder-wieder anhören! :tada: :notes:
 

@@ -1,5 +1,5 @@
 #ProWo-Videos
-![TEN SING Moers Logo](/footage/banner 2015/Flyer reloaded long low.png)
+![TEN SING Moers Logo](/footage/banner 2016/Banner-1700px.jpg)
 Auf dieser Seite sind alle :movie_camera: Videos von unseren abgefahrenen TEN SING-ProWos gelistet! Wenn ihr euch die dazugehörigen Fotos ansehen wollt, bitte :point_up: [hier klicken](../Fotos/Prowos.md)! Und natürlich gibt es auch wie immer einen Hinterausgang, der zurück zur [Startseite](../../Links.md) führt! :wink:
 
 ##Bilder des Tages

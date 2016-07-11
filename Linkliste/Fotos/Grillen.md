@@ -1,4 +1,4 @@
-![TEN SING Moers Logo](/footage/banner 2015/Flyer reloaded long low.png)
+![TEN SING Moers Logo](/footage/banner 2016/Banner-1700px.jpg)
 #Fotos vom Grillen!
 Hier finden sich Fotos von unseren Grillabenden, z.B. vom alljährlichen Abschlussgrillen! :tada: Zurück zur Hauptseite geht's [hier](../../Links.md)!
 

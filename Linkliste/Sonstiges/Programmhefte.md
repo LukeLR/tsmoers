@@ -1,4 +1,4 @@
-![TEN SING Moers Logo](/footage/banner 2015/Flyer reloaded long low.png)
+![TEN SING Moers Logo](/footage/banner 2016/Banner-1700px.jpg)
 
 # Programmhefte
 In unseren Programmheften erscheinen neben den Texten über TenSing eine Menge cooler Fotos! Auf jeden Fall sehenswert! :tada: Um wieder zur Hauptseite der Linkliste zu gelangen, klicke [hier](../../Links.md)!
