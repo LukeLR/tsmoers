@@ -3,7 +3,7 @@
 Ihr wollt nur mal schnell nachschauen, ob in der letzten Zeit etwas neues passiert ist? Dann seid ihr hier genau richtig! Denn hier findet ihr alle neuen Fotos, Videos und anderen Inhalte nach Datum aufgelistet! Yippieh! :tada: :smiley: Und zurück zur Startseite geht's [hier](../Linkliste.md)!
 
 **30.07.2016**
-* Zurück von unserer coolen Segelfreizeit: Die Fotos vom TEN SING Segeln 2016 sind online! [klick :sailboat:](Linkliste/Fotos/Sonstiges.md)
+* Zurück von unserer coolen Segelfreizeit: Die Fotos vom TEN SING Segeln 2016 sind online! [klick :sailboat:](Fotos/Sonstiges.md)
 
 **05.07.2016**
 * Die Fotos vom Grillen sind da! Ich habe die Fotos vom Abschiedsgrillen online gestellt! Ihr findet sie [hier (klick!)](Fotos/Grillen.md)
