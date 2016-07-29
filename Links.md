@@ -14,6 +14,7 @@ Ohne viel Geschwafel, hier direkt die ganzen coolen TenSing-Sachen aufgelistet! 
 * [Geburtstage](Linkliste/Fotos/Geburtstage.md)
 * [Sonstige CVJM-Ereignisse](Linkliste/Fotos/CVJM-Kram.md)
 * [![Jerusalemkreuz](footage/sonstiges/Jerusalemkreuz-extremklein.png) Kirchentage](Linkliste/Fotos/Kirchentag.md)
+* [Sonstige Fotos](Linkliste/Fotos/Sonstiges.md)
 
 **Liest du in dem blauen Buch, Neo, so werde ich dich zu allen weiteren Fotos führen. Wenn du dich aber für das rote Buch entscheidest, findest du dich bald bei sämtlichen Videos wieder.** [:blue_book:](Linkliste/Fotos/Sonstiges.md) [:closed_book:](Linkliste/Videos/Sonstiges.md)
 
@@ -24,6 +25,7 @@ Ohne viel Geschwafel, hier direkt die ganzen coolen TenSing-Sachen aufgelistet! 
 * [Seminarvideos](Linkliste/Videos/Seminare.md)
 * [Konzertvideos](Linkliste/Videos/Konzerte.md)
 * [Videos von den Proben](Linkliste/Videos/Proben.md)
+* [Sonstige Videos](Linkliste/Videos/Sonstiges.md)
 
 ##Audios
 Hier finden sich Mitschnitte unserer Konzerte, Proben oder Sonstigem als Audidatei zum Anhören! (Und herunterladen)
