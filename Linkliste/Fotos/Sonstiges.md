@@ -5,7 +5,7 @@ Ehem... Fotos! :tada: [:closed_book:](../Videos/Sonstiges.md)
 * [Abschlussgrillen 2013](https://www.flickr.com/photos/tsmoers/sets/72157654827640006)
 * [Gruppenfotos Februar 2015](https://www.flickr.com/gp/tsmoers/jy4433)
 * Unsortierte Fotos Sven (bis Sommer 2015): [Teil 1](https://www.flickr.com/gp/tsmoers/t65McA), [Teil 2](https://www.flickr.com/photos/tsmoers/sets/72157655184217525)
-* TEN SING Segeln 2016! Yippieh! :tada: [Alle Fotosssssss](https://www.flickr.com/gp/tsmoers/w6uv2c), [Foto Lukassssss](https://www.flickr.com/gp/tsmoers/4QZos4)
+* :sailboat: :tent: TEN SING Segeln 2016! Yippieh! :tada: [Alle Fotosssssss](https://www.flickr.com/gp/tsmoers/w6uv2c), [Foto Lukassssss](https://www.flickr.com/gp/tsmoers/4QZos4)
 
 Kleinere Mengen von Fotos, für die sich kein eigenes Album lohnt, finden sich [hier](https://www.flickr.com/gp/tsmoers/J8E2Ad)
 
