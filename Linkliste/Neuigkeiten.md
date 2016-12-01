@@ -3,8 +3,8 @@
 Ihr wollt nur mal schnell nachschauen, ob in der letzten Zeit etwas neues passiert ist? Dann seid ihr hier genau richtig! Denn hier findet ihr alle neuen Fotos, Videos und anderen Inhalte nach Datum aufgelistet! Yippieh! :tada: :smiley: Und zurück zur Startseite geht's [hier](../Linkliste.md)!
 
 **01.12.2016**
-* Die Fotos von unserem letzten ProWo im Oktober sind online! Klick [hier](http://bit.ly/ProWoOktober2016)!
-* Am 12. November waren wir in Gelsenkirchen und haben uns die Show zum 30-jährigen Jubiläum von TenSing Deutschland angeguckt! Die Fotos davon sind [hier](http://bit.ly/30JahreTenSingDeutschland) zu finden!
+* Die Fotos von unserem letzten **ProWo im Oktober** sind online! Klick [hier](http://bit.ly/ProWoOktober2016)!
+* Am 12. November waren wir in Gelsenkirchen und haben uns die Show zum **30-jährigen Jubiläum** von TenSing Deutschland angeguckt! Die Fotos davon sind [hier](http://bit.ly/30JahreTenSingDeutschland) zu finden!
 
 **30.07.2016**
 * Zurück von unserer coolen Segelfreizeit: Die Fotos vom TEN SING Segeln 2016 sind online! [klick :sailboat:](Fotos/Sonstiges.md)
