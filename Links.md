@@ -1,8 +1,8 @@
-![TEN SING Moers Logo](/footage/banner 2016/Banner-1700px.jpg)
+![TEN SING Moers Logo](footage/banner2017/WettenKrass-Ticket-cutout-500dpi-01.png)
 # Die Links
 Ohne viel Geschwafel, hier direkt die ganzen coolen TenSing-Sachen aufgelistet! Und zurück zur Startseite geht's [hier](Linkliste.md)!
 
-##Fotos
+## Fotos
 * [ProWo-Fotos](Linkliste/Fotos/ProWos.md)
 * [Konzerte](Linkliste/Fotos/Konzerte.md)
 * [Seminare](Linkliste/Fotos/Seminare.md)
@@ -18,7 +18,7 @@ Ohne viel Geschwafel, hier direkt die ganzen coolen TenSing-Sachen aufgelistet! 
 
 **Liest du in dem blauen Buch, Neo, so werde ich dich zu allen weiteren Fotos führen. Wenn du dich aber für das rote Buch entscheidest, findest du dich bald bei sämtlichen Videos wieder.** [:blue_book:](Linkliste/Fotos/Sonstiges.md) [:closed_book:](Linkliste/Videos/Sonstiges.md)
 
-##Videos
+## Videos
 **Hinweis:** *Kursiv* gedruckte Links führen zu Videos, die dank der GEMA in Deutschland gesperrt sind und daher vermutlich nicht abgerufen werden können. Ich überlege mir noch eine Lösung dafür ;)
 
 * [ProWo-Videos](Linkliste/Videos/ProWos.md)
@@ -27,7 +27,7 @@ Ohne viel Geschwafel, hier direkt die ganzen coolen TenSing-Sachen aufgelistet! 
 * [Videos von den Proben](Linkliste/Videos/Proben.md)
 * [Sonstige Videos](Linkliste/Videos/Sonstiges.md)
 
-##Audios
+## Audios
 Hier finden sich Mitschnitte unserer Konzerte, Proben oder Sonstigem als Audidatei zum Anhören! (Und herunterladen)
 
 * [Konzertaufnahmen](Linkliste/Audios/Konzertaufnahmen.md)
@@ -35,7 +35,7 @@ Hier finden sich Mitschnitte unserer Konzerte, Proben oder Sonstigem als Audidat
 * [Aufnahmen von unseren Proben](Linkliste/Audios/Probenaufnahmen.md)
 * [Sonstige Aufnahmen](Linkliste/Audios/Sonstiges.md)
 
-##Sonstiges
+## Sonstiges
 Hier findet sich anderer cooler TenSing-Kram! :tada:
 
 * [Programmhefte](Linkliste/Sonstiges/Programmhefte.md)
