@@ -3,6 +3,7 @@
 Ihr wollt nur mal schnell nachschauen, ob in der letzten Zeit etwas neues passiert ist? Dann seid ihr hier genau richtig! Denn hier findet ihr alle neuen Fotos, Videos und anderen Inhalte nach Datum aufgelistet! Yippieh! :tada: :smiley: Und zurück zur Startseite geht's [hier](../Linkliste.md)!
 
 **30.05.2017**
+Es gibt einen ganzen Haufen neuer Fotos!
 * Die Fotos vom ![Jerusalemkreuz](../footage/sonstiges/Jerusalemkreuz-extremklein.png) Kirchentag sind online! Yippieh! :tada: Wir hatten ein superkrasstolles Wochenende in Berlin unter dem Motto "Du siehst mich" - und dies ist die Dokumentation davon: [(klick)](http://bit.ly/Kirchentag2017Berlin)
 * Die Fotos vom TenSing Inside-Meeting 2017 sind online: [(klick)](http://bit.ly/Inside2017)
 * Die Fotos vom ProWo im Januar sind online: [(klick)](http://bit.ly/ProWoJanuar2017)
