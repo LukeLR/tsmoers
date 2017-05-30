@@ -4,6 +4,9 @@ Ihr wollt nur mal schnell nachschauen, ob in der letzten Zeit etwas neues passie
 
 **30.05.2017**
 * Die Fotos vom ![Jerusalemkreuz](../footage/sonstiges/Jerusalemkreuz-extremklein.png) Kirchentag sind online! Yippieh! :tada: Wir hatten ein superkrasstolles Wochenende in Berlin unter dem Motto "Du siehst mich" - und dies ist die Dokumentation davon: [(klick)](http://bit.ly/Kirchentag2017Berlin)
+* Die Fotos vom TenSing Inside-Meeting 2017 sind online: [(klick)](http://bit.ly/Inside2017)
+* Die Fotos vom ProWo im Januar sind online: [(klick)](http://bit.ly/ProWoJanuar2017)
+* Die Fotos vom "30 Jahre TenSing Deutschland"-Jubiläum in Gelsenkirchen sind online: [(klick)](http://bit.ly/30JahreTSDeutschland)
 
 **01.12.2016**
 * Die Fotos von unserem letzten **ProWo im Oktober** sind online! Klick [hier](http://bit.ly/ProWoOktober2016)!
