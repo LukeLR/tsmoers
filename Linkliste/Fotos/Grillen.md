@@ -1,4 +1,4 @@
-![TEN SING Moers Logo](/footage/banner 2016/Banner-1700px.jpg)
+![TEN SING Moers Logo](../footage/banner2017/WettenKrass-Ticket-cutout-500dpi-01.png)
 #Fotos vom Grillen!
 Hier finden sich Fotos von unseren Grillabenden, z.B. vom alljährlichen Abschlussgrillen! :tada: Zurück zur Hauptseite geht's [hier](../../Links.md)!
 
