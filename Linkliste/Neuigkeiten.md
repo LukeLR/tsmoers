@@ -2,6 +2,11 @@
 ![TEN SING Moers Logo](../footage/banner2017/WettenKrass-Ticket-cutout-500dpi-01.png)
 Ihr wollt nur mal schnell nachschauen, ob in der letzten Zeit etwas neues passiert ist? Dann seid ihr hier genau richtig! Denn hier findet ihr alle neuen Fotos, Videos und anderen Inhalte nach Datum aufgelistet! Yippieh! :tada: :smiley: Und zurück zur Startseite geht's [hier](../Linkliste.md)!
 
+**13.06.2017**
+Und schon wieder neue Fotos! :tada:
+* Die Fotos vom letzten ProWo sind online!! Weil ich das so cool fand, dass ihr tatsächlich dieses Wochenende mal Fotos gemacht habt, und sogar richtig viele, habe ich mich auch total damit beeilt, die hochzuladen! Ich finde, die Fotos sind richtig cool geworden! :tada: Aber seht selbst: [(klick)](http://bit.ly/ProWoJuni2017)
+* Die Fotos vom Pfingstzeltlager sind online: [(klick)](http://bit.ly/Pfingstzeltlager2017) (*Das betrifft natürlich nur die, die auf dem Pfingstzeltlager waren*)
+
 **30.05.2017**
 Es gibt einen ganzen Haufen neuer Fotos!
 * Die Fotos vom ![Jerusalemkreuz](../footage/sonstiges/Jerusalemkreuz-extremklein.png) Kirchentag sind online! Yippieh! :tada: Wir hatten ein superkrasstolles Wochenende in Berlin unter dem Motto "Du siehst mich" - und dies ist die Dokumentation davon: [(klick)](http://bit.ly/Kirchentag2017Berlin)
