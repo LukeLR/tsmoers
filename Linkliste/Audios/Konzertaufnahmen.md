@@ -1,5 +1,5 @@
-#Konzertaufnahmen
-![TEN SING Moers Logo](../footage/banner2017/WettenKrass-Ticket-cutout-500dpi-01.png)
+# Konzertaufnahmen
+![TEN SING Moers Logo](../../footage/banner2017/WettenKrass-Ticket-cutout-500dpi-01.png)
 
 Yay! Tonaufnahmen von unseren Konzerten! Zum immer-wieder-wieder-wieder-wieder anhören! :tada: :notes:
 
