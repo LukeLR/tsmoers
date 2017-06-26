@@ -3,7 +3,9 @@
 Ihr wollt nur mal schnell nachschauen, ob in der letzten Zeit etwas neues passiert ist? Dann seid ihr hier genau richtig! Denn hier findet ihr alle neuen Fotos, Videos und anderen Inhalte nach Datum aufgelistet! Yippieh! :tada: :smiley: Und zurück zur Startseite geht's [hier](../Linkliste.md)!
 
 **26.06.2017**
-Die Fotos vom Konzert sind online!! Wir hatten eine verdammt geile Show, danke an euch alle! Ihr habt's gerockt! Ihr seid spitze, HEY! :tada: :tada: [zu den Fotos vom Konzert geht's hier](http://bit.ly/Konzert2017Fotos), [zu den Fotos von der Aftershowparty hier](http://bit.ly/Konzert2017Aftershow)
+Die Fotos vom Konzert sind online!! Wir hatten eine verdammt geile Show, danke an euch alle! Ihr habt's gerockt! Ihr seid spitze, HEY! :tada: :tada:
+* [Fotos vom Konzert](http://bit.ly/Konzert2017Fotos)
+* [Fotos und Videos von der Aftershowparty](http://bit.ly/Konzert2017Aftershow)
 
 **13.06.2017**
 Und schon wieder neue Fotos! :tada:
