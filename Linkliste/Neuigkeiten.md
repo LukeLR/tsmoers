@@ -2,6 +2,9 @@
 ![TEN SING Moers Logo](../footage/banner2017/WettenKrass-Ticket-cutout-500dpi-01.png)
 Ihr wollt nur mal schnell nachschauen, ob in der letzten Zeit etwas neues passiert ist? Dann seid ihr hier genau richtig! Denn hier findet ihr alle neuen Fotos, Videos und anderen Inhalte nach Datum aufgelistet! Yippieh! :tada: :smiley: Und zurück zur Startseite geht's [hier](../Linkliste.md)!
 
+**26.06.2017**
+Die Fotos vom Konzert sind online!! Wir hatten eine verdammt geile Show, danke an euch alle! Ihr habt's gerockt! Ihr seid spitze, HEY! :tada: :tada: [zu den Fotos vom Konzert geht's hier](http://bit.ly/Konzert2017Fotos), [zu den Fotos von der Aftershowparty hier](http://bit.ly/Konzert2017Aftershow)
+
 **13.06.2017**
 Und schon wieder neue Fotos! :tada:
 * Die Fotos vom letzten ProWo sind online!! Weil ich das so cool fand, dass ihr tatsächlich dieses Wochenende mal Fotos gemacht habt, und sogar richtig viele, habe ich mich auch total damit beeilt, die hochzuladen! Ich finde, die Fotos sind richtig cool geworden! :tada: Aber seht selbst: [(klick)](http://bit.ly/ProWoJuni2017)
