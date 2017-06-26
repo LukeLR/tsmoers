@@ -1,5 +1,5 @@
-#ProWo-Fotos
-![TEN SING Moers Logo](../footage/banner2017/WettenKrass-Ticket-cutout-500dpi-01.png)
+# ProWo-Fotos
+![TEN SING Moers Logo](../../footage/banner2017/WettenKrass-Ticket-cutout-500dpi-01.png)
 Hier findet ihr alle Fotos von unseren TEN SING-ProWos! Für Videos von den ProWos bitte :point_right: [hier entlang](../Videos/ProWos.md)! Um wieder zur Hauptseite der Linkliste zu gelangen, klicke [hier](../../Linkliste.md)
 
 * [ProWo April 2013 - CVJM Moers](https://www.flickr.com/gp/tsmoers/1yk30m)

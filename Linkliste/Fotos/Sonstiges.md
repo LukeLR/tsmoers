@@ -1,5 +1,5 @@
-#Sonstige Fotos
-![TEN SING Moers Logo](../footage/banner2017/WettenKrass-Ticket-cutout-500dpi-01.png)
+# Sonstige Fotos
+![TEN SING Moers Logo](../../footage/banner2017/WettenKrass-Ticket-cutout-500dpi-01.png)
 Du hast dich für die Blaue Pille entschieden, was dir niemand verübeln kann. Somit bleibst Du unwissend und weiterhin ein Opfer der Illusion.
 
 Ehem... Fotos! :tada: [:closed_book:](../Videos/Sonstiges.md)
