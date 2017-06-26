@@ -1,5 +1,5 @@
-#Fotos von Auftritten
-![TEN SING Moers Logo](../footage/banner2017/WettenKrass-Ticket-cutout-500dpi-01.png)
+# Fotos von Auftritten
+![TEN SING Moers Logo](../../footage/banner2017/WettenKrass-Ticket-cutout-500dpi-01.png)
 Wenn wir neben unseren Konzerten noch andere Auftritte haben, werden die Stars (also wir :blush:) natürlich auch ordentlich fotografiert! Die Resultate davon findet ihr dann hier :wink:
 
 :alien: E.T. nach Hause telefonieren? [Hier entlang](../../Links.md)!
