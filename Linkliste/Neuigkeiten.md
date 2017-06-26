@@ -6,6 +6,7 @@ Ihr wollt nur mal schnell nachschauen, ob in der letzten Zeit etwas neues passie
 Die Fotos vom Konzert sind online!! Wir hatten eine verdammt geile Show, danke an euch alle! Ihr habt's gerockt! Ihr seid spitze, HEY! :tada: :tada:
 * [Fotos vom Konzert](http://bit.ly/Konzert2017Fotos)
 * [Fotos und Videos von der Aftershowparty](http://bit.ly/Konzert2017Aftershow)
+* [Tonaufnahmen vom Konzert](http://bit.ly/Konzert2017Audios)
 
 **13.06.2017**
 Und schon wieder neue Fotos! :tada:
