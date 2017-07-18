@@ -2,6 +2,9 @@
 ![TEN SING Moers Logo](../footage/banner2017/WettenKrass-Ticket-cutout-500dpi-01.png)
 Ihr wollt nur mal schnell nachschauen, ob in der letzten Zeit etwas neues passiert ist? Dann seid ihr hier genau richtig! Denn hier findet ihr alle neuen Fotos, Videos und anderen Inhalte nach Datum aufgelistet! Yippieh! :tada: :smiley: Und zurück zur Startseite geht's [hier](../Linkliste.md)!
 
+**14.07.2017**
+Die Fotos von unserem Abschiedsgrillen sind online! [(klick)](http://bit.ly/Abschiedsgrillen2017)
+
 **26.06.2017**
 Die Fotos vom Konzert sind online!! Wir hatten eine verdammt geile Show, danke an euch alle! Ihr habt's gerockt! Ihr seid spitze, HEY! :tada: :tada:
 * [Fotos vom Konzert](http://bit.ly/Konzert2017Fotos)
