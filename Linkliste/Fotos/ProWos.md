@@ -19,3 +19,4 @@ Hier findet ihr alle Fotos von unseren TEN SING-ProWos! Für Videos von den ProW
 * [ProWo Oktober 2016 - CVJM Moers](http://bit.ly/ProWoOktober2016)
 * [ProWo Januar 2017 - CVJM Moers](http://bit.ly/ProWoJanuar2017)
 * [ProWo Juni 2017 - CVJM Moers](http://bit.ly/ProWoJuni2017)
+* **ProWo November 2017** (http://bit.ly/ProWoNovember2017)
