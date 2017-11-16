@@ -20,7 +20,6 @@ Hier findet ihr alle Medien von unseren TEN SING-ProWos (Videos sowie Fotos)! Um
   * [Bilder des Tages als Video - Samstag](https://www.youtube.com/watch?v=HQ4THJipHIw)
   * [Bilder des Tages - Sonntag](https://flic.kr/s/aHsjYfpa5u)
   * [Bilder des Tages als Video - Sonntag](https://www.youtube.com/watch?v=vJnIyf9m4l4)
-* [ProWo Mai 2014 - Eichenkreuzheim](https://www.flickr.com/gp/tsmoers/88f623) 
 * [ProWo Oktober 2014 - CVJM Moers](https://www.flickr.com/gp/tsmoers/1q0d9q)
 * [ProWo März 2015 - CVJM Moers](https://www.flickr.com/gp/tsmoers/t35924)
 * [ProWo November 2015 - CVJM Moers](https://www.flickr.com/gp/tsmoers/3o3u47)
