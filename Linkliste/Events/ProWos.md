@@ -7,10 +7,10 @@ Hier findet ihr alle Medien von unseren TEN SING-ProWos (Videos sowie Fotos)! Um
 * [Best-of ("Bilder des ProWos")](http://bit.ly/ProWoNovember2017BestOf)
 * Best-of als Video ("Bilder des ProWos"):
   * [Best-of als Video ("Bilder des ProWos") auf YouTube](https://www.youtube.com/watch?v=jZuNzPhdOmo)
-  * Falls gesperrt, ist das Video in 3-Minuten-Abschnitte gestückelt hier zu finden:
-    * [Best-of als Video ("Bilder des ProWos") auf Flickr](http://bit.ly/ProWoNovember2017BestOfVideo)
-  * Oder mit alternativer Hintergrundmusik, die nicht gesperrt wird: 
+  * Falls gesperrt, mit alternativer Hintergrundmusik, die nicht gesperrt wird: 
     * [Best-of als Video ("Bilder des ProWos") mit alternativer Musik auf YouTube](https://www.youtube.com/watch?v=5hp-3OHco8U)
+  * Oder mit der originalen Hintergrundmusik, in drei-Minuten-Abschnitte gestückelt, die ebenfalls nicht gesperrt werden:
+    * [Best-of als Video ("Bilder des ProWos") auf Flickr](http://bit.ly/ProWoNovember2017BestOfVideo)
 ### ProWo Juni 2017 - CVJM Moers:
 * [Alle Fotos](http://bit.ly/ProWoJuni2017)
 ### ProWo Januar 2017 - CVJM Moers:
