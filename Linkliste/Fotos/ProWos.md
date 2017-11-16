@@ -1,31 +1,3 @@
 # ProWo-Fotos
 ![TEN SING Moers Logo](../../footage/banner2017/WettenKrass-Ticket-cutout-500dpi-01.png)
-Hier findet ihr alle Fotos von unseren TEN SING-ProWos! Für Videos von den ProWos bitte :point_right: [hier entlang](../Videos/ProWos.md)! Um wieder zur Hauptseite der Linkliste zu gelangen, klicke [hier](../../Linkliste.md)
-
-* [ProWo April 2013 - CVJM Moers](https://www.flickr.com/gp/tsmoers/1yk30m)
-* [ProWo Juni 2013 - CVJM Moers](https://www.flickr.com/gp/tsmoers/qRPxa9)
-* [ProWo November 2013 - CVJM Moers](https://www.flickr.com/gp/tsmoers/9MFm56)
-* [ProWo Februar 2014 - CVJM Moers](https://www.flickr.com/gp/tsmoers/0P9021)
-* ProWo Mai 2014 - Eichenkreuzheim
-  * [Alle Fotos](https://www.flickr.com/gp/tsmoers/uJ1H8d),
-  * [Tagesbilder Samstag](https://www.flickr.com/gp/tsmoers/K47kKn),
-  * [Tagesbilder Sonntag](https://flic.kr/s/aHsjYfpa5u)
-* [ProWo Mai 2014 - Eichenkreuzheim](https://www.flickr.com/gp/tsmoers/88f623) 
-* [ProWo Oktober 2014 - CVJM Moers](https://www.flickr.com/gp/tsmoers/1q0d9q)
-* [ProWo März 2015 - CVJM Moers](https://www.flickr.com/gp/tsmoers/t35924)
-* [ProWo November 2015 - CVJM Moers](https://www.flickr.com/gp/tsmoers/3o3u47)
-* Spaßwochenende mit Duisburg Süd Januar 2016:
-  * [Alle Fotos](https://www.flickr.com/gp/tsmoers/61sZAg),
-  * [Fotos von Lukas](https://www.flickr.com/gp/tsmoers/033109),
-  * [Fotos von Stefan](https://www.flickr.com/gp/tsmoers/AKVXy9),
-  * [Fotos von Sven 1](https://www.flickr.com/gp/tsmoers/5i0o9E),
-  * [Fotos von Sven 2](https://www.flickr.com/gp/tsmoers/T7e1mX),
-  * [Bilder des Tages](https://www.flickr.com/gp/tsmoers/D0099v)
-* [ProWo März 2016 - CVJM Moers](https://www.flickr.com/gp/tsmoers/jy8513)
-* [ProWo Mai 2016 - CVJM Moers](https://www.flickr.com/gp/tsmoers/0VH6z6)
-* [ProWo Oktober 2016 - CVJM Moers](http://bit.ly/ProWoOktober2016)
-* [ProWo Januar 2017 - CVJM Moers](http://bit.ly/ProWoJanuar2017)
-* [ProWo Juni 2017 - CVJM Moers](http://bit.ly/ProWoJuni2017)
-* ProWo November 2017:
-  * [Alle Fotos](http://bit.ly/ProWoNovember2017),
-  * [Bilder des ProWos (Best of)](http://bit.ly/ProWoNovember2017BestOf)
+Die Fotos von unseren ProWos sind jetzt zusammen mit den Videos auf einer gemeinsamen Seite aufgelistet, zur besseren Übersichtlichkeit! Ihr findet sie [hier (klick)](../Events/ProWos.md)
