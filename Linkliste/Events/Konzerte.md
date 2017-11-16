@@ -1,6 +1,6 @@
 # Konzertfotos und -Videos
 ![TEN SING Moers Logo](../../footage/banner2017/WettenKrass-Ticket-cutout-500dpi-01.png)
-Hier findet ihr alle Fotos von unseren Konzerten! Für Konzertvideos bitte [hier](../Videos/Konzerte.md) klicken! Um wieder zur Hauptseite der Linkliste zu gelangen, klicke [hier](../../Links.md) :wink:
+Hier findet ihr alle Fotos und Videos von unseren Konzerten! Um wieder zur Hauptseite der Linkliste zu gelangen, klicke [hier](../../Links.md) :wink:
 
 ### Konzert 2017: Oh mein Gottschalk - Disneys großes Chaos! :tada: 
 * [Fotos vom Konzert](http://bit.ly/Konzert2017Fotos)
@@ -12,7 +12,11 @@ Hier findet ihr alle Fotos von unseren Konzerten! Für Konzertvideos bitte [hier
 * [Fotos aus der Pausen-Diashow](http://bit.ly/Konzert2016DiashowFotos)
 
 ### Konzert 2015 - Entern statt Kentern: Pirat stolpert über Frieden
+* [Klatschrhythmen](https://www.youtube.com/watch?v=ZAKt2GK_wM4)
+* [Konzerttrailer 1](https://www.youtube.com/watch?v=gNZKlokSyaE)
+* [Konzerttrailer 2](https://www.youtube.com/watch?v=iIZoKt5ebSo)
 * [Fotos](https://www.flickr.com/gp/tsmoers/2G24Zv)
 
 ### Konzert 2013 - Wer hat an der Uhr gedreht?
 * [Fotos](https://www.flickr.com/gp/tsmoers/Qnqup7)
+* [Video](https://www.youtube.com/watch?v=UkYiYnhFTEw)
