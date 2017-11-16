@@ -52,9 +52,7 @@ Hier findet ihr alle Medien von unseren TEN SING-ProWos (Videos sowie Fotos)! Um
   * [Alle Fotos](http://bit.ly/ProWoNovember2017),
   * [Best-of ("Bilder des ProWos")](http://bit.ly/ProWoNovember2017BestOf)
   * Best-of als Video ("Bilder des ProWos"):
-    * Das Best-of als Video gibt es in mehreren Versionen. Die Standardversion enthält die originale Hintergrundmusik, wie ich das Video auf dem ProWo gezeigt habe:
-      * [Best-of als Video ("Bilder des ProWos") in der Standardversion](https://www.youtube.com/watch?v=jZuNzPhdOmo)
-    * Da YouTube aber die Verwendung der Musik sperrt, gibt es das Video ebenfalls auf Flickr, dort aber in 3-Minuten-Abschnitte unterteilt, weil Flickr nur Videos mit maximal 3 Minuten erlaubt:
-      * Best-of als Video ("Bilder des ProWos") in der Standardversion auf Flickr
-    * Zusätzlich habe ich auch noch eine Version des Videos erstellt, mit Musik, die nicht von YouTube gesperrt ist:
-      * [Best-of als Video ("Bilder des ProWos") mit alternativer Musik](https://www.youtube.com/watch?v=5hp-3OHco8U)
+    * [Best-of als Video ("Bilder des ProWos")](https://www.youtube.com/watch?v=jZuNzPhdOmo)
+    * Falls gesperrt, ist das Video in 3-Minuten-Abschnitte gestückelt hier zu finden:
+    Best-of als Video ("Bilder des ProWos") in der Standardversion auf Flickr
+    * Oder mit alternativer Hintergrundmusik, die nicht gesperrt wird: [Best-of als Video ("Bilder des ProWos") mit alternativer Musik](https://www.youtube.com/watch?v=5hp-3OHco8U)
