@@ -2,6 +2,12 @@
 ![TEN SING Moers Logo](../../footage/banner2017/WettenKrass-Ticket-cutout-500dpi-01.png)
 Hier findet ihr alle Medien von unseren TEN SING-ProWos (Videos sowie Fotos)! Um wieder zur Hauptseite der Linkliste zu gelangen, klicke [hier](../../Linkliste.md)
 
+* ProWo 2011:
+  * Best-of als Video ("Bilder des ProWos"):
+    * [Teil 1](https://www.youtube.com/watch?v=KuSGHqkgjtA)
+    * [Teil 2](https://www.youtube.com/watch?v=5v-0AtiDwAY
+    * [Teil 3](https://www.youtube.com/watch?v=GFzkesUXBw0)
+    * [Teil 4](https://www.youtube.com/watch?v=7GeaQ60GyVU)
 * ProWo April 2013 - CVJM Moers:
   * [Alle Fotos](https://www.flickr.com/gp/tsmoers/1yk30m)
   * [Best-of als Video ("Bilder des ProWos")](https://www.youtube.com/watch?v=c0FlPn8RrkE)
