@@ -1,6 +1,6 @@
 # Konzertfotos und -Videos
 ![TEN SING Moers Logo](../../footage/banner2017/WettenKrass-Ticket-cutout-500dpi-01.png)
-Hier findet ihr alle Fotos und Videos von unseren Konzerten! Um wieder zur Hauptseite der Linkliste zu gelangen, klicke [hier](../../Links.md) :wink:
+Wir haben ja bisher schon einige coole Konzerte auf die Beine gestellt! :thumbsup: Die Fotos und Videos davon findet ihr alle hier! :yum: Um wieder zur Hauptseite der Linkliste zu gelangen, klicke [hier](../../Links.md) :wink:
 
 ### Konzert 2017: Oh mein Gottschalk - Disneys großes Chaos! :tada: 
 * [Fotos vom Konzert](http://bit.ly/Konzert2017Fotos)
