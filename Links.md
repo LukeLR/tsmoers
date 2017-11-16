@@ -2,13 +2,13 @@
 # Die Links
 Ohne viel Geschwafel, hier direkt die ganzen coolen TenSing-Sachen aufgelistet! Und zurück zur Startseite geht's [hier](Linkliste.md)!
 
-## Allgemein
+## Schnellzugriff
 * [ProWos](Linkliste/Events/ProWos.md)
 * [Konzerte](Linkliste/Events/Konzerte.md)
 
 ## Fotos
-* [ProWo-Fotos](Linkliste/Fotos/ProWos.md)
-* [Konzerte](Linkliste/Fotos/Konzerte.md)
+* [ProWo-Fotos](Linkliste/Events/ProWos.md)
+* [Konzerte](Linkliste/Events/Konzerte.md)
 * [Seminare](Linkliste/Fotos/Seminare.md)
 * [Probensonntage](Linkliste/Fotos/Probensonntage.md)
 * [Proben](Linkliste/Fotos/Proben.md)
@@ -25,9 +25,9 @@ Ohne viel Geschwafel, hier direkt die ganzen coolen TenSing-Sachen aufgelistet! 
 ## Videos
 **Hinweis:** *Kursiv* gedruckte Links führen zu Videos, die dank der GEMA in Deutschland gesperrt sind und daher vermutlich nicht abgerufen werden können. Ich überlege mir noch eine Lösung dafür ;)
 
-* [ProWo-Videos](Linkliste/Videos/ProWos.md)
+* [ProWo-Videos](Linkliste/Events/ProWos.md)
 * [Seminarvideos](Linkliste/Videos/Seminare.md)
-* [Konzertvideos](Linkliste/Videos/Konzerte.md)
+* [Konzertvideos](Linkliste/Events/Konzerte.md)
 * [Videos von den Proben](Linkliste/Videos/Proben.md)
 * [Sonstige Videos](Linkliste/Videos/Sonstiges.md)
 
