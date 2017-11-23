@@ -2,6 +2,9 @@
 ![TEN SING Moers Logo](../footage/banner2017/WettenKrass-Ticket-cutout-500dpi-01.png)
 Ihr wollt nur mal schnell nachschauen, ob in der letzten Zeit etwas neues passiert ist? Dann seid ihr hier genau richtig! Denn hier findet ihr alle neuen Fotos, Videos und anderen Inhalte nach Datum aufgelistet! Yippieh! :tada: :smiley: Und zurück zur Startseite geht's [hier](../Linkliste.md)!
 
+**23.11.2017**
+* [Fotos vom TenSing Kürten-Konzert](http://bit.ly/TSKuerten2017)
+
 **16.11.2017**
 Die Fotos und Bilder-des-Tages-Videos von unserem letzten ProWo sind online! :heart_eyes: Du findest sie [hier! (klick)](Events/ProWos.md#prowo-november-2017)
 
