@@ -3,7 +3,7 @@
 Hier findet ihr alle Medien von unseren TEN SING-ProWos (Videos sowie Fotos)! Um wieder zur Hauptseite der Linkliste zu gelangen, klicke [hier](../../Linkliste.md)
 
 ### ProWo Februar 2018:
-* [Alle Fotos](
+* [Alle Fotos](http://bit.ly/ProWoFebruar2018Fotos)
 * [Best-of ("Bilder des ProWos")](../Sonstiges/zufruegefreut.md)
 * [Best-of als Video ("Bilder des ProWos")](../Sonstiges/zufruegefreut.md)
 ### ProWo November 2017:
