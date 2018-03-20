@@ -2,6 +2,9 @@
 ![TEN SING Moers Logo](../footage/banner2017/WettenKrass-Ticket-cutout-500dpi-01.png)
 Ihr wollt nur mal schnell nachschauen, ob in der letzten Zeit etwas neues passiert ist? Dann seid ihr hier genau richtig! Denn hier findet ihr alle neuen Fotos, Videos und anderen Inhalte nach Datum aufgelistet! Yippieh! :tada: :smiley: Und zurück zur Startseite geht's [hier](../Linkliste.md)!
 
+**20.03.2018**
+* Die Fotos von Fionas und Kiras Benefizkonzert im Februar 2018 sind online! Und zwar [hier](http://bit.ly/BenefizkonzertKiraFiona2018)!
+
 **05.03.2018**
 * Neues Jahr, neues Glück! Die [Fotos vom ProWo 2018](http://bit.ly/ProWoFebruar2018Fotos) sind jetzt online! Ihr findet sie [hier](http://bit.ly/ProWoFebruar2018Fotos)!
 
