@@ -2,10 +2,10 @@
 ![TEN SING Moers Logo](../../footage/banner2017/WettenKrass-Ticket-cutout-500dpi-01.png)
 Hier findet ihr alle Medien von unseren TEN SING-ProWos (Videos sowie Fotos)! Um wieder zur Hauptseite der Linkliste zu gelangen, klicke [hier](../../Linkliste.md)
 
+### ProWo April 2018:
+* [Alle Fotos](http://bit.ly/ProWoApril2018Fotos)
 ### ProWo Februar 2018:
 * [Alle Fotos](http://bit.ly/ProWoFebruar2018Fotos)
-* [Best-of ("Bilder des ProWos")](../Sonstiges/zufruegefreut.md)
-* [Best-of als Video ("Bilder des ProWos")](../Sonstiges/zufruegefreut.md)
 ### ProWo November 2017:
 * [Alle Fotos](http://bit.ly/ProWoNovember2017),
 * [Best-of ("Bilder des ProWos")](http://bit.ly/ProWoNovember2017BestOf)

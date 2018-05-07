@@ -7,6 +7,9 @@ Ihr wollt nur mal schnell nachschauen, ob in der letzten Zeit etwas neues passie
 * Die Fotos von Hannahs Geburtstag am 28. April sind online! Und zwar [hier](http://bit.ly/Hannahs18terGeburtstag)!
 Viel Spaß beim Ansehen!
 
+**24.04.2018**
+* Die Fotos vom ProWo im April sind online! [hier klicken!](http://bit.ly/ProWoApril2018Fotos)
+
 **20.03.2018**
 * Die Fotos von Fionas und Kiras Benefizkonzert im Februar 2018 sind online! Und zwar [hier](http://bit.ly/BenefizkonzertKiraFiona2018)!
 
