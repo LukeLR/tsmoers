@@ -2,6 +2,11 @@
 ![TEN SING Moers Logo](../footage/banner2017/WettenKrass-Ticket-cutout-500dpi-01.png)
 Ihr wollt nur mal schnell nachschauen, ob in der letzten Zeit etwas neues passiert ist? Dann seid ihr hier genau richtig! Denn hier findet ihr alle neuen Fotos, Videos und anderen Inhalte nach Datum aufgelistet! Yippieh! :tada: :smiley: Und zurück zur Startseite geht's [hier](../Linkliste.md)!
 
+**08.05.2018**
+* Die Fotos von der Probe am 23. April sind online! [hier klicken!](http://bit.ly/ProbeApril2018Fotos)
+* Die Fotos von Hannahs Geburtstag am 28. April sind online! Und zwar [hier](http://bit.ly/Hannahs18terGeburtstag)!
+Viel Spaß beim Ansehen!
+
 **20.03.2018**
 * Die Fotos von Fionas und Kiras Benefizkonzert im Februar 2018 sind online! Und zwar [hier](http://bit.ly/BenefizkonzertKiraFiona2018)!
 
