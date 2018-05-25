@@ -9,5 +9,6 @@ Da wir TEN SINGer natürlich nicht nur TEN SING, sondern auch sonst so einiges i
 * [Pfingstzeltlager 2015: Ritterspiele](https://www.flickr.com/gp/tsmoers/Bn4C67)
 * [Pfingstzeltlager 2016: Piraten](http://bit.ly/Pfingstzeltlager2016Fotos)
 * [Pfingstzeltlager 2017: Märchen](http://bit.ly/Pfingstzeltlager2017)
+* Pfingstzeltlager 2018: Detektive: [Alle Fotos](http://bit.ly/Pfingstzeltlager2018AlleFotos), [Fotos von Lukas](http://bit.ly/Pfingstzeltlager2018FotosLukas)
 
 Aber weil man auf so Freizeiten auch gerne mal Heimweh hat, geht's natürlich [hier](../../Links.md) zurück nach Hause! :wink:
