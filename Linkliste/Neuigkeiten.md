@@ -2,6 +2,9 @@
 ![TEN SING Moers Logo](../footage/banner2017/WettenKrass-Ticket-cutout-500dpi-01.png)
 Ihr wollt nur mal schnell nachschauen, ob in der letzten Zeit etwas neues passiert ist? Dann seid ihr hier genau richtig! Denn hier findet ihr alle neuen Fotos, Videos und anderen Inhalte nach Datum aufgelistet! Yippieh! :tada: :smiley: Und zurück zur Startseite geht's [hier](../Linkliste.md)!
 
+**25.05.2018**
+* Die Fotos vom Pfingstzeltlager sind online! Ihr findet sie hier: [Alle Fotos](http://bit.ly/Pfingstzeltlager2018AlleFotos), [Fotos von Lukas](http://bit.ly/Pfingstzeltlager2018FotosLukas)
+
 **08.05.2018**
 * Die Fotos von der Probe am 23. April sind online! [hier klicken!](http://bit.ly/ProbeApril2018Fotos)
 * Die Fotos von Hannahs Geburtstag am 28. April sind online! Und zwar [hier](http://bit.ly/Hannahs18terGeburtstag)!
