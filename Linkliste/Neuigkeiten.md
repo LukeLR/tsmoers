@@ -3,7 +3,7 @@
 Ihr wollt nur mal schnell nachschauen, ob in der letzten Zeit etwas neues passiert ist? Dann seid ihr hier genau richtig! Denn hier findet ihr alle neuen Fotos, Videos und anderen Inhalte nach Datum aufgelistet! Yippieh! :tada: :smiley: Und zurück zur Startseite geht's [hier](../Linkliste.md)!
 
 **14.06.2018**
-* Die Fotos vom ProWo letztes Wochenende sind schon online! Ihr findet sie {hier}(http://bit.ly/ProWoJuni2018Fotos)!
+* Die Fotos vom ProWo letztes Wochenende sind schon online! Ihr findet sie [hier](http://bit.ly/ProWoJuni2018Fotos)!
 
 **25.05.2018**
 * Die Fotos vom Pfingstzeltlager sind online! Ihr findet sie hier: [Alle Fotos](http://bit.ly/Pfingstzeltlager2018AlleFotos), [Fotos von Lukas](http://bit.ly/Pfingstzeltlager2018FotosLukas)
